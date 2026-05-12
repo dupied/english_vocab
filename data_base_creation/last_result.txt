@@ -8998,465 +8998,1003 @@ beak/bec, magistrat/She described her very precise and very perfectly chosen wor
 degrading/dégradant, avilissant, déclassant/She found the very cynical exploitation of any creative talent to be completely and utterly degrading.
 imaginable/imaginable, concevable/She had encountered every imaginable kind of creative difficulty and had overcome them all magnificently.
 weaken/affaiblir, s'affaiblir/She would never allow any very harsh criticism to weaken her very deep and justified confidence.
-misled
-brake
-hurts
-adhered
-beamed
-kindle
-attainment
-uncouth
-converts
-grind
-swarmed
-delays
-foolishly
-silks
-variable
-archives
-easiest
-blacksmith
-clash
-countryman
-jelly
-salutation
-routed
-chatting
-muster
-commencing
-listener
-sooth
-explicit
-descriptive
-spells
-yore
-blinds
-legacy
-pitying
-relieving
-victuals
-proffered
-uppermost
-strangest
-sweeps
-excesses
-policemen
-attends
-lids
-terminate
-exchanging
-freezing
-gem
-fragile
-downcast
-concentrate
-impotent
-encampment
-protesting
-cabins
-falsely
-omnibus
-appellation
-unlocked
-haunting
-halting
-vigilant
-dizzy
-staggering
-southwest
-fictitious
-incur
-illegal
-darkly
-impulsive
-meanness
-pitcher
-maintains
-concludes
-riddle
-grades
-nourished
-biscuit
-fringed
-metaphysical
-passport
-shedding
-lark
-hairy
-harshly
-quoting
-tub
-poised
-affront
-vestibule
-percent
-underlying
-stalk
-assassination
-hurricane
-deceiving
-heave
-rebuked
-tolerated
-denies
-griefs
-stamping
-spade
-anarchy
-forfeit
-mortgage
-remnants
-crews
-emerge
-truest
-moderately
-annoying
-freshly
-burying
-grazing
-spurred
-accusations
-distraction
-frosty
-mane
-miscellaneous
-courteously
-sideways
-bulls
-exploded
-provoking
-martyrdom
-repeal
-mythology
-needles
-rumours
-amends
-ethics
-injunction
-repelled
-boarded
-fastidious
-ordinances
-weaving
-classification
-revision
-consciences
-snuff
-obstinately
-fathom
-reproduce
-fern
-havoc
-mainland
-slaughtered
-pail
-vacancy
-bass
-smite
-circling
-dyed
-lacks
-digest
-widows
-darting
-embark
-roadside
-drunkenness
-embarrassing
-quotations
-quickness
-blonde
-throb
-toleration
-gallantly
-strengthening
-forbearance
-indefatigable
-toiling
-appetites
-grumbled
-mercantile
-tapping
-click
-renounced
-superiors
-crashing
-abiding
-ballads
-unlawful
-exploration
-inspected
-pamphlets
-discovers
-dye
-ramparts
-slower
-punishments
-nailed
-risked
-bailiff
-digestion
-sandstone
-rejection
-retains
-undoubted
-childlike
-flask
-tapestry
-immoral
-sentry
-manufacturers
-reminiscences
-missions
-graduated
-invaders
-adjust
-hapless
-sulphur
-gaudy
-brim
-membership
-aerial
-stimulating
-indistinct
-collapse
-choicest
-incidentally
-rigging
-willows
-consciously
-enchantment
-greasy
-destinies
-witches
-bequeathed
-constitutions
-nightmare
-steaming
-depicted
-fibre
-loathsome
-myth
-thickets
-pauses
-axis
-corpses
-spheres
-verbs
-assassin
-encircled
-flowery
-assailants
-mortified
-agencies
-forge
-helplessly
-sensibly
-praising
-scanned
-inhuman
-ebb
-speck
-rowing
-cigarettes
-barbarian
-absorption
-olden
-armchair
-blockade
-shrub
-winters
-clergymen
-patrons
-finances
-flocked
-marvelled
-recording
-abstraction
-uniformity
-godly
-commissioner
-disappearing
-monastic
-organize
-framework
-runaway
-sketched
-shameless
-accosted
-relentless
-flanks
-speakers
-Isles
-dictates
-pies
-arid
-corporations
-chasm
-straits
-weaknesses
-ceasing
-ducats
-overgrown
-despotic
-edged
-hysterical
-traps
-birch
-extensively
-robbing
-exploit
-moaned
-actuated
-countenances
-intrusion
-estimates
-degenerate
-truer
-wreaths
-hens
-ram
-undo
-rapids
-spotless
-variance
-battalions
-papal
-rust
-bloodshed
-eventful
-specifically
-repressed
-executioner
-quartered
-hull
-rocked
-strolling
-champions
-comical
-ravages
-disturbances
-film
-vapour
-shrieking
-triumphal
-denote
-restlessness
-acquitted
-repel
-impious
-hourly
-sponge
-wanderer
-axes
-facilitate
-initiated
-shrug
-stimulate
-veterans
-athletic
-disasters
-wins
-downfall
-yarn
-tumble
-betimes
-bethought
-immovable
-archers
-penitent
-refresh
-attaining
-completing
-consuming
-priceless
-chasing
-violate
-importation
-epithet
-lightness
-prized
-stipulated
-flitted
-straightforward
-wistfully
-agreeing
-conflicts
-prosper
-entertainments
-stoutly
-grating
-affinity
-striped
-intoxication
-colder
-covert
-hazardous
-ruthless
-vex
-smells
-insert
-skilfully
-splash
-purified
-atom
-clustered
-pounded
-discrimination
-drivers
-lonesome
-sharpened
-versed
-aspire
-unaffected
-offending
-calmer
-repugnance
-notably
-unarmed
-unwise
-courtly
-abounding
-triumphed
-ascetic
-dishonest
-joking
-livid
-visionary
-peremptory
-sympathize
-clutch
-heretics
-salad
-ambush
-lavished
-mates
-adhere
-lining
-profited
-quarry
-cavaliers
-fortresses
-genteel
-prerogative
-yelling
-breathes
-hearken
-stalks
-ignoring
-meats
-broadcast
-swamps
-credited
-eligible
-matched
-feeds
-morale
-corresponds
-gust
-wench
-jovial
-preferring
-bounces
-feasting
-enquire
+misled/induit en erreur, trompé/She had been very badly misled by the most apparently authoritative and most trusted source.
+brake/frein, taillis, freiner/She had to very carefully brake her very extraordinary creative enthusiasm at the most critical moment.
+hurts/blesse, fait mal, nuit/Nothing hurts her very deep creative confidence more than very deliberate and very dishonest criticism.
+adhered/adhéra, s'est tenu à, s'est collé/She very firmly adhered to all the very most important principles of her remarkable creative life.
+beamed/rayonna, sourit largement/She very warmly beamed with very genuine and very complete pride at the most extraordinary occasion.
+kindle/allumer, enflammer, éveiller/She had an extraordinary ability to kindle a very deep love of literature in all her students.
+attainment/réalisation, acquisition, niveau atteint/She considered the very highest attainment of creative excellence to be her very greatest goal.
+uncouth/grossier, rustre, maladroit/She found any uncouth or very careless treatment of the very finest old books deeply offensive.
+converts/convertit, convertis, transforme/Her very extraordinary writing converts even the most sceptical reader to the cause of literature.
+grind/broyer, moudre, corvée/She described the very daily grind of the most disciplined creative life with great dark humour.
+swarmed/fourmilla, a grouillé/The very old library swarmed with the most enthusiastic and most devoted young readers.
+delays/retards, délais, retarde/She never allows any very unnecessary delays to interrupt the very important flow of creative work.
+foolishly/bêtement, sottement/She had very foolishly attempted to ignore the very most important and most revealing creative detail.
+silks/soies, tissus de soie/She wore only the very simplest and the very most beautiful old silks on very formal occasions.
+variable/variable, changeant, aléatoire/She found the very variable quality of all very fashionable criticism both tiresome and amusing.
+archives/archives, fonds documentaires/She had spent many very long and very productive years working in the most extraordinary old archives.
+easiest/le plus facile, le plus aisé/She always found that the very easiest path was never the very most rewarding one.
+blacksmith/forgeron/She described the very greatest writers as the most extraordinary and most powerful literary blacksmiths.
+clash/conflit, choc, se heurter/She had a very creative clash of ideas with her most distinguished and most respected colleague.
+countryman/compatriote, campagnard/She always felt a very deep and very warm connection with every very fellow countryman she met.
+jelly/gelée, confiture, gélatine/She made the most wonderful and most beautiful old rose jelly from flowers in her very old garden.
+salutation/salutation, salut, accueil/She received the most extraordinarily warm and very genuine salutation from all her very devoted readers.
+routed/mis en déroute, a vaincu/She had very completely routed all the very most hostile critics with her extraordinary new work.
+chatting/bavardant, discutant/She loved chatting about books and ideas with anyone who shared her very extraordinary passion.
+muster/rassemblement, appel, rassembler/She had to muster all her very considerable resources before tackling the most difficult old subject.
+commencing/commençant, débutant/She was very carefully commencing the most ambitious and most exciting project of her whole career.
+listener/auditeur, personne qui écoute/She was considered the very most thoughtful and most extraordinarily attentive listener in all literary circles.
+sooth/vérité, apaisement (archaïque)/She always sought the very sooth of any matter however very difficult it might be to find.
+explicit/explicite, clair, précis/She was always very explicit and very completely clear about all her most important creative intentions.
+descriptive/descriptif, évocateur/She had an extraordinarily rich and very precise descriptive gift that illuminated every subject.
+spells/sorts, charmes, périodes, orthographie/She casts the most extraordinary creative spells over all her very many devoted readers.
+yore/jadis, autrefois, temps passé (archaïque)/She loved all the very ancient literary traditions of days of very old yore.
+blinds/stores, aveugle, éblouit/She never blinds herself to any very uncomfortable truth however very difficult it might be to face.
+legacy/héritage, legs, patrimoine/She left an extraordinary and very completely enduring literary legacy to all her remarkable generation.
+pitying/compatissant, apitoyé, qui a pitié/She had a very warm and very genuine pitying concern for all struggling and uncelebrated writers.
+relieving/soulageant, allégeant, relevant/She found that very long walks were the very best means of relieving all creative tension.
+victuals/victuailles, provisions, nourriture/She kept very good victuals in the house so she could write without unnecessary interruption.
+proffered/offrit, a présenté, tendu/She very graciously accepted the very warm hand that was most cordially and sincerely proffered.
+uppermost/le plus haut, premier, prédominant/The very uppermost thought in her very remarkable mind was always the quality of her work.
+strangest/le plus étrange, le plus bizarre/She found the very strangest and most unexpected beauty in all the most apparently ordinary things.
+sweeps/balaye, parcourt, s'étend/Her very extraordinary imagination sweeps over the widest possible range of human experience.
+excesses/excès, débordements/She always avoided all very dangerous excesses and maintained a wonderful creative equilibrium.
+policemen/agents de police, policiers/She wrote very thoughtfully about the very complex and very difficult role of all policemen.
+attends/assiste à, s'occupe de/She always attends to every very smallest detail of her most carefully constructed argument.
+lids/couvercles, paupières/She lifted the lids of all the very old boxes and discovered the most extraordinary old manuscripts.
+terminate/terminer, mettre fin à, licencier/She was very determined to terminate all very unnecessary and very distracting professional commitments.
+exchanging/échangeant, s'échangeant/She loved exchanging very long and very detailed letters with all her very most distinguished colleagues.
+freezing/glacial, congélation, qui gèle/She worked on through the very freezing cold of the most bitterly cold old winter morning.
+gem/joyau, gemme, perle/She described every truly extraordinary sentence as the most brilliant and most precious literary gem.
+fragile/fragile, délicat/She was always very careful in handling even the most fragile and most precious creative ideas.
+downcast/abattu, déprimé, baissé/She felt very downcast after the very difficult and very discouraging early critical response.
+concentrate/se concentrer, concentrer, concentré/She had a remarkable ability to very completely concentrate on even the very most difficult problems.
+impotent/impuissant, inefficace/She would never allow herself to feel impotent in the face of even the very most difficult challenge.
+encampment/campement, bivouac/She described the very extraordinary creative encampment of all the very most exciting new literary voices.
+protesting/protestant, contestant, objectant/She was very firmly and very clearly protesting against all the very most unjust critical treatment.
+cabins/cabines, cabanes/She had written her very first extraordinary novel in the most tiny and very remote old cabin.
+falsely/faussement, à tort/She had been very falsely and very unjustly accused of the most completely unfair literary plagiarism.
+omnibus/omnibus, recueil, autobus/She loved the old omnibus editions that collected the very finest works of the greatest old authors.
+appellation/appellation, nom, dénomination/She had earned the very grand appellation of the greatest writer of her remarkable generation.
+unlocked/déverrouilla, a ouvert/She very excitedly unlocked the very old and very beautiful box that contained the most precious manuscripts.
+haunting/hantant, obsédant, évocateur/She had a very haunting and very extraordinarily beautiful quality in all her very finest prose.
+halting/hésitant, boiteux, s'arrêtant/She was never halting or uncertain when it came to stating her very most important position.
+vigilant/vigilant, attentif, aux aguets/She was always very vigilant in maintaining the very highest possible creative and critical standards.
+dizzy/étourdi, vertigineux, ivre/She felt very dizzy with extraordinary creative excitement as the very last pages of the novel came together.
+staggering/stupéfiant, chancelant, titubant/She produced a truly staggering and absolutely overwhelming amount of very extraordinary creative work.
+southwest/sud-ouest, du sud-ouest/She had spent several very happy and very productive months in the beautiful old southwest.
+fictitious/fictif, imaginaire, faux/She created the very most completely convincing and the most beautifully realised fictitious worlds.
+incur/encourir, contracter, s'exposer à/She would never incur any very great creative debt that she could not very fully repay.
+illegal/illégal, illicite/She was very strongly opposed to all the very many illegal and dishonest forms of literary piracy.
+darkly/sombrement, obscurément/She described very darkly and very powerfully the very most difficult aspects of human experience.
+impulsive/impulsif, irréfléchi, spontané/She was never impulsive in any very important creative decision however great the exciting temptation.
+meanness/mesquinerie, avarice, petitesse/She found all forms of creative meanness and very small-minded literary thinking truly insufferable.
+pitcher/pichet, lanceur, cruche/She filled the very beautiful old ceramic pitcher with fresh water from the old garden spring.
+maintains/maintient, soutient, prétend/She always very firmly maintains the very highest possible standards in all her remarkable work.
+concludes/conclut, déduit, se termine/She always very brilliantly and very satisfyingly concludes every very complex argument with total clarity.
+riddle/énigme, devinette, cribler/She described every very great and most extraordinary literary work as a very beautiful riddle.
+grades/notes, degrés, qualités, niveaux/She had achieved the very highest grades in every very important and most demanding examination.
+nourished/nourrit, a nourri/She had been very deeply nourished throughout her entire remarkable life by the very greatest literature.
+biscuit/biscuit, gâteau sec/She always kept a very large tin of her very favourite old biscuits on the writing desk.
+fringed/bordé de frange, à franges/The very beautiful old lampshade was very delicately fringed with the most exquisite old silk.
+metaphysical/métaphysique, abstrait/She had a very deep and very serious interest in all the most important metaphysical questions.
+passport/passeport, laisser-passer/She considered a very wide and very deep reading to be the only true literary passport.
+shedding/perdant, versant, se débarrassant de/She was very happily shedding all the very most unnecessary and most limiting old creative habits.
+lark/alouette, amusement, farce/She described her most playful and most daring creative experiments as a very delightful literary lark.
+hairy/poilu, velu, épineux, risqué/She found herself in an extremely hairy and very complicated creative situation of her own making.
+harshly/durement, sévèrement, rudement/She had been very harshly and very publicly criticised but had continued working with great dignity.
+quoting/citant, en citant/She was very carefully quoting only the very most important and most relevant literary passages.
+tub/baquet, cuve, baignoire/She found the very old wooden tub in the cellar of the very ancient and beautiful house.
+poised/en équilibre, posé, prêt à/She was very poised and very completely prepared before the most important literary presentation.
+affront/affront, insulte, offenser/She received a very direct and very personal affront with extraordinary composure and great quiet dignity.
+vestibule/vestibule, hall d'entrée/She waited very patiently in the very grand and very beautiful old vestibule of the library.
+percent/pour cent, pourcent/A very high percent of all her most important creative ideas came during her very long walks.
+underlying/sous-jacent, fondamental/She could always detect the very most important underlying meaning in any apparently simple old text.
+stalk/tige, traquer, s'approcher furtivement/She would quietly stalk any very new and very extraordinary idea until she had fully captured it.
+assassination/assassinat, meurtre/She wrote very carefully about the very extraordinary literary assassination of neglected creative genius.
+hurricane/ouragan, cyclone/She described the most extraordinary creative hurricane that had completely transformed her very entire literary era.
+deceiving/trompant, illusoire, trompeur/She would never risk deceiving any of her very many and very trusting devoted readers.
+heave/soulever, lancer, houle/She had to heave a very deep sigh of very great relief when the very long work was done.
+rebuked/réprimanda, a blâmé/She very quietly rebuked the very impertinent and very careless young critic with great dignity.
+tolerated/toléra, a toléré, supporté/She had very patiently tolerated the very most unreasonable demands but had finally said enough.
+denies/nie, refuse, prive/She never denies any very important truth however very uncomfortable or very unpopular it may be.
+griefs/chagrins, peines, deuils/She wrote about all the very deepest and most personal griefs with extraordinary beauty and truth.
+stamping/tamponnant, frappant du pied, marquant/She was very firmly stamping her very extraordinary creative authority on the entire literary landscape.
+spade/bêche, pique, appeler les choses par leur nom/She always called a spade a spade and never shied away from any very difficult truth.
+anarchy/anarchie, désordre, chaos/She described the very creative anarchy of the most extraordinarily exciting period of literary innovation.
+forfeit/perdre, confisquer, amende/She would never forfeit any very important creative principle however very great the professional pressure.
+mortgage/hypothèque, hypothéquer/She had taken out a very modest mortgage to buy the beautiful small house where she wrote.
+remnants/restes, vestiges, bribes/She very carefully gathered up all the very last remnants of the most important old manuscript.
+crews/équipages, équipes/She described all the very hardworking and very dedicated crews of the most important literary journals.
+emerge/émerger, surgir, s'imposer/She watched the most extraordinary new creative ideas very slowly and very beautifully emerge.
+truest/le plus vrai, le plus fidèle/She always sought the very truest and the very most essential meaning in every old text.
+moderately/modérément, assez, raisonnablement/She was never moderately ambitious but always aimed for the very very highest possible creative standard.
+annoying/agaçant, contrariant, énervant/She found the very constant interruptions to her most focused creative work extremely annoying.
+freshly/fraîchement, récemment, nouvellement/She always began each very new creative day freshly and without any very lingering previous concerns.
+burying/enterrant, enfouissant/She was very contentedly burying herself in the most extraordinary and most fascinating old archives.
+grazing/pâturant, frôlant, égratignant/She loved to watch the very peaceful cattle grazing in the wide green fields.
+spurred/encouragé, stimulé, éperonné/She was very greatly spurred on by the most extraordinarily warm and enthusiastic public response.
+accusations/accusations, inculpations/She faced all the very unjust and very unfounded accusations with extraordinary composure and dignity.
+distraction/distraction, diversion, perturbation/She would never allow any very petty or very unnecessary distraction to interfere with her work.
+frosty/glacial, givré, froid/She received a rather frosty reception but was not deterred in the very slightest degree.
+mane/crinière/She pushed her very long and very wild mane of dark hair back from her very tired face.
+miscellaneous/divers, varié, de toutes sortes/She had collected a very large and very miscellaneous assortment of extremely interesting old documents.
+courteously/courtoisement, avec courtoisie/She always responded very courteously and very graciously to every letter she ever received.
+sideways/de côté, latéralement/She gave the very pompous critic a very quick and very sideways look of great amusement.
+bulls/taureaux, bêtises, balivernes/She described all the very most pompous and very boastful critics as nothing but literary bulls.
+exploded/explosa, a fait sauter, démystifié/She very brilliantly exploded all the very most comfortable and the most restrictive old critical myths.
+provoking/provocant, stimulant, exaspérant/She had a very provoking and very completely irresistible way of challenging all established opinion.
+martyrdom/martyre, sacrifice/She endured the long martyrdom of creative neglect with extraordinary patience and very great dignity.
+repeal/abrogation, abroger, révoquer/She campaigned very strongly for the repeal of all the very most damaging literary censorship laws.
+mythology/mythologie, mythe/She had a very deep and very scholarly interest in the mythology of many different cultures.
+needles/aiguilles, agace, pique/She needles all the very most complacent and most self-satisfied critics with extraordinary and brilliant precision.
+rumours/rumeurs, ouï-dire/She never paid any attention to literary rumours and always judged solely by the very actual work.
+amends/réparations, compensation, amende honorable/She made very generous amends for all the very harsh words she had ever spoken.
+ethics/éthique, déontologie/She had a very deep and very serious personal commitment to all questions of literary ethics.
+injunction/injonction, ordre/She received a very strong and very clear injunction to produce only the very very finest work.
+repelled/repoussa, a repoussé, a rebuté/She was very strongly repelled by any form of very deliberate and very cynical literary dishonesty.
+boarded/embarqua, a monté, cloué/She very eagerly boarded the very old train to visit the most extraordinary and very distant library.
+fastidious/minutieux, difficile, méticuleux/She was extraordinarily fastidious in her very careful attention to every last creative detail.
+ordinances/ordonnances, règlements, décrets/She had a very thorough and very precise knowledge of all the most important literary ordinances.
+weaving/tissant, tressant, se faufilant/She was very brilliantly weaving all the most complex and the most different narrative threads.
+classification/classification, catégorisation/She had a very sophisticated understanding of all the very most important systems of literary classification.
+revision/révision, correction, modification/She considered the very careful revision to be the most important and most creative part of writing.
+consciences/consciences, sens moral/She wrote very powerfully about the very profound conflict between all human consciences and desires.
+snuff/tabac à priser, moucheron, prise/She could very quickly snuff out any very pretentious or dishonest argument with great ease.
+obstinately/obstinément, opiniâtrement/She obstinately and very completely refused to compromise on any matter of the very highest principle.
+fathom/brasse, comprendre, sonder/She could always very precisely fathom the very deepest meaning of any apparently very simple old text.
+reproduce/reproduire, copier, se reproduire/She would never carelessly reproduce the ideas of others without the very most careful acknowledgment.
+fern/fougère/She kept a very beautiful and very large old fern on the windowsill of her writing room.
+havoc/ravages, désastre/She described the very terrible havoc that all forms of literary censorship could wreak.
+mainland/continent, terre ferme/She had always loved the very quiet mainland away from all the noise of the very great city.
+slaughtered/massacré, abattu, a tué/She described very movingly how all the very greatest and most extraordinary creative ideas can be slaughtered.
+pail/seau, seau/She carried a very old and very battered old pail of very fresh water from the spring.
+vacancy/vacance, poste vacant, vide/She described the extraordinary creative vacancy she felt during the very long and very difficult block.
+bass/basse, bar, grave/She had a very beautiful and very resonant bass note in all her most powerful prose.
+smite/frapper, châtier/She had to smite down all the very most pretentious and the most dishonest critical claims.
+circling/tournant en rond, encerclant/She kept very carefully circling all the very most important and most central creative ideas.
+dyed/teint, coloré, a teint/She described the very deeply dyed creative prejudices of the most established literary critics.
+lacks/manque de, est dépourvu de/She never lacks the very most extraordinary creative energy or the most precise and acute intelligence.
+digest/digérer, résumé, assimiler/She could always very quickly digest even the very most complex and the most demanding old text.
+widows/veuves/She wrote with very great compassion and insight about the difficult lives of all very elderly widows.
+darting/filant, se précipitant, lançant/She was very constantly darting from one very exciting and completely new creative idea to another.
+embark/embarquer, se lancer dans/She was very finally ready to embark on the most ambitious and the most exciting new project.
+roadside/bord de la route, au bord de la route/She found the most extraordinary and the most beautiful old wild flowers by the very quiet roadside.
+drunkenness/ivresse, ébriété/She described the very particular creative drunkenness of the most brilliantly inspired writing with wonderful vividness.
+embarrassing/embarrassant, gênant/She found the very excessive and very publicly displayed praise extremely and genuinely embarrassing.
+quotations/citations, devis/She had collected many very beautiful and very precise old literary quotations throughout her long life.
+quickness/rapidité, vivacité, promptitude/She had an extraordinary quickness of mind that allowed her to grasp any problem immediately.
+blonde/blonde, blond/She wore her very beautiful long blonde hair very loosely while she was writing at home.
+throb/pulsation, battement, palpiter/She could feel the very deep and very satisfying throb of a perfectly formed sentence.
+toleration/tolérance, indulgence/She had always shown the very greatest toleration for every very different and very genuine creative voice.
+gallantly/vaillamment, galamment, courageusement/She gallantly and very completely defended the very most important principles of her extraordinary creative life.
+strengthening/renforçant, consolidant/She was very actively strengthening all the very most important and most fundamental creative foundations.
+forbearance/patience, indulgence, retenue/She showed the most extraordinary forbearance in dealing with the most unreasonable and most hostile critics.
+indefatigable/infatigable, inlassable/She was truly indefatigable in her very extraordinary commitment to the very finest creative standards.
+toiling/peinant, travaillant dur/She had been very quietly toiling over the very most difficult passages for several very long weeks.
+appetites/appétits, désirs/She described all the very varied intellectual appetites of her most remarkable and most creative generation.
+grumbled/grogna, a ronchonné, a bougonné/She grumbled very quietly about the extraordinary difficulty of the most demanding passage but pressed on.
+mercantile/commercial, mercantile, de commerce/She was very deeply suspicious of all very mercantile and very cynical literary motivations.
+tapping/tapant, frappant légèrement, exploitant/She was very rhythmically tapping her very old pen on the desk while thinking deeply.
+click/clic, cliquetis, cliquer/She heard the very satisfying click of the old typewriter as the perfect word was typed.
+renounced/renonça, a renoncé/She had very completely renounced all very comfortable certainties in her pursuit of the very deepest truth.
+superiors/supérieurs, chefs/She always treated all her superiors with the same very great respect as she gave to everyone.
+crashing/fracassant, s'écrasant, tonitruant/She received a very sudden and very crashing disappointment that she immediately and very bravely overcame.
+abiding/permanent, durable, qui demeure/She had a very deep and very abiding love of all the very greatest literary traditions.
+ballads/ballades, chansons/She had a very deep and very scholarly love of all the most beautiful and ancient old ballads.
+unlawful/illégal, illicite, contraire à la loi/She was very strongly opposed to any unlawful and any dishonest treatment of creative work.
+exploration/exploration, découverte/She described the very greatest act of reading as the most extraordinary intellectual exploration.
+inspected/inspecta, a examiné/She very carefully inspected every single word of the very long manuscript before giving her approval.
+pamphlets/pamphlets, brochures, tracts/She had written several very powerful and very widely read pamphlets on the very most important literary freedoms.
+discovers/découvre, trouve/She always discovers something very new and very extraordinary in every book she very carefully reads.
+dye/teinture, colorant, teindre/She described the very most deeply ingrained literary prejudices as very permanently dyed into the very fabric.
+ramparts/remparts, fortifications/She described the very solid ramparts of all the very most important literary traditions with great precision.
+slower/plus lent, plus lentement/She worked very much slower on the very most important and most carefully crafted passages.
+punishments/punitions, châtiments/She wrote very powerfully about the very deeply unjust literary punishments of the most neglected genius.
+nailed/cloué, a scotché, a réussi/She very completely nailed the very most important and the most central argument with extraordinary precision.
+risked/risqua, a pris le risque/She had very bravely risked everything on the most bold and most extraordinary creative venture.
+bailiff/huissier, bailli, régisseur/The very old bailiff had managed the very large and very beautiful old estate for decades.
+digestion/digestion, assimilation/She described the very slow and very careful digestion of all the most complex old ideas.
+sandstone/grès, en grès/The very old library was very beautifully built of warm and very beautiful old red sandstone.
+rejection/rejet, refus, rebuffade/She had received many very difficult rejections but had always emerged stronger and more determined.
+retains/retient, conserve, garde/She always retains all the very most important and most vivid details of every book she reads.
+undoubted/indubitable, indéniable, incontestable/She was the undoubted and very completely unanimous literary genius of her whole remarkable generation.
+childlike/enfantin, d'enfant, naïf/She retained a very beautiful and very genuine childlike wonder at all the very finest literature.
+flask/flacon, thermos, gourde/She always kept a very old flask of very strong hot tea with her when writing outdoors.
+tapestry/tapisserie, canevas/She described the very extraordinary narrative tapestry of her most magnificent and most celebrated novel.
+immoral/immoral, contraire à la morale/She considered any very deliberate deception of a trusting reader to be deeply and seriously immoral.
+sentry/sentinelle, gardien, factionnaire/She described herself as the very most devoted literary sentry of all the greatest old traditions.
+manufacturers/fabricants, producteurs/She was very critical of all those very cynical manufacturers of mere very commercial literary product.
+reminiscences/réminiscences, souvenirs/She published the most beautifully and most vividly written reminiscences of her extraordinary literary life.
+missions/missions, objectifs, buts/She had always felt that she had several very important and very clear literary missions.
+graduated/diplômé, gradué, a obtenu son diplôme/She graduated with the very highest distinction from the very most important and distinguished literary academy.
+invaders/envahisseurs, intrus/She described all the very most fashionable critical trends as nothing but very temporary invaders.
+adjust/ajuster, adapter, régler/She always had to very carefully adjust her very great ambitions to the very real creative possibilities.
+hapless/infortuné, malchanceux, malheureux/She wrote with very great compassion about all the most hapless and most uncelebrated literary figures.
+sulphur/soufre/She described the very sulphur-tinged quality of all the very most fiercely combative literary criticism.
+gaudy/voyant, criard, tape-à-l'œil/She found all very gaudy and very showy literary productions entirely without any genuine merit.
+brim/bord, déborder, rempli à ras bord/She was absolutely brimming with the very most extraordinary and most exciting creative ideas.
+membership/adhésion, appartenance/She had always maintained a very active and very distinguished membership of several literary societies.
+aerial/aérien, antenne, aérien/She had a very extraordinary and very beautiful aerial quality in all her very finest prose.
+stimulating/stimulant, encourageant, motivant/She found all the very most extraordinary and most challenging creative problems deeply stimulating.
+indistinct/indistinct, flou, vague/She could see a very indistinct but very promising shape of an entirely new and beautiful idea.
+collapse/effondrement, s'effondrer/She felt she might very completely collapse with the most extraordinary and overwhelming creative exhaustion.
+choicest/le meilleur, le plus fin, le plus rare/She always selected only the very choicest and the very most perfectly precise words.
+incidentally/incidemment, accessoirement/She incidentally made one of the very most important creative discoveries of her whole career.
+rigging/gréement, manipulation, truquage/She described the very complex rigging of the most extraordinary and most ambitious narrative structure.
+willows/saules/She loved to walk very quietly along the very beautiful old path beneath the tall weeping willows.
+consciously/consciemment, délibérément/She always very consciously and very deliberately chose the very most honest and direct creative approach.
+enchantment/enchantement, charme, magie/She felt a very deep and very wonderful enchantment whenever she opened any truly great old book.
+greasy/graisseux, gras, glissant/She would never produce anything greasy or very sloppy in any of her very careful work.
+destinies/destins, avenirs/She wrote very movingly about all the very extraordinary and the very different human destinies she had witnessed.
+witches/sorcières, sorciers/She described all the very most brilliantly subversive writers of her era as wonderful literary witches.
+bequeathed/légua, a légué/She had been very generously bequeathed the most extraordinary and the most precious library imaginable.
+constitutions/constitutions, santés, tempéraments/She had a very robust creative constitution that allowed her to work through all difficulties.
+nightmare/cauchemar/She described the very particular nightmare of the creative block with great honesty and dark humour.
+steaming/fumant, à vapeur, qui cuit à la vapeur/She loved the very comforting sight of the old steaming kettle on the cold winter morning.
+depicted/représenta, a dépeint/She very brilliantly depicted all the very most extraordinary and most vivid aspects of her remarkable era.
+fibre/fibre, fil, texture/She felt the very extraordinary creative challenge in every single fibre of her very remarkable being.
+loathsome/répugnant, dégoûtant, odieux/She found any very deliberate distortion of literary truth completely and utterly loathsome.
+myth/mythe, légende, idée reçue/She had always been deeply fascinated by all the very ancient and most powerful literary myths.
+thickets/fourrés, buissons, broussailles/She had to fight through very dense and very difficult thickets of very complicated old argument.
+pauses/pauses, silences, s'arrête/She pauses very carefully before every very important and most considered creative decision.
+axis/axe, pivot/She considered all the very greatest literature to be the very central axis of all true civilisation.
+corpses/cadavres, restes/She described all the very lifeless and very dead old literary conventions as nothing but creative corpses.
+spheres/sphères, domaines, orbites/She had moved very freely and very brilliantly across many different creative spheres throughout her career.
+verbs/verbes/She believed that the very most important and the most active verbs were the very heart of all great prose.
+assassin/assassin, tueur/She described the most fashionable critical opinion as a very particularly dangerous and insidious literary assassin.
+encircled/encercla, a encerclé/She was very completely encircled by the most extraordinary and the most enthusiastic and devoted readers.
+flowery/fleuri, floral, plein de fleurs/She had absolutely no patience for flowery or very unnecessarily elaborate literary language of any kind.
+assailants/assaillants, attaquants/She faced all her very hostile literary assailants with extraordinary courage and very calm dignity.
+mortified/mortifié, honteux, a mortifié/She was very greatly mortified by her own very careless and very avoidable creative mistake.
+agencies/agences, organismes/She had worked with several very reputable and very distinguished literary agencies throughout her career.
+forge/forge, forger, fabriquer/She had very patiently forged her very most distinctive and most completely extraordinary literary style.
+helplessly/impuissamment, sans pouvoir rien faire/She watched very helplessly as all the very careful and very important old work was destroyed.
+sensibly/raisonnablement, sagement, judicieusement/She always very sensibly and very calmly weighed all the very most important creative options.
+praising/louant, félicitant, faisant l'éloge/She was very warmly praising all the very finest and the very most promising new literary work.
+scanned/parcourut du regard, a scruté/She very carefully scanned every single word of the very long manuscript before making any comment.
+inhuman/inhumain, cruel, bestial/She found any very deliberate neglect of any very serious creative talent completely inhuman.
+ebb/reflux, déclin, refluerdécroître/She felt the very first ebb of the very strongest creative tide but knew it would return.
+speck/tache, point, grain/She could detect even the very smallest and most invisible speck of dishonesty in any writing.
+rowing/ramant, aviron/She went rowing on the very beautiful old lake every morning before returning to her important work.
+cigarettes/cigarettes/Several very distinguished writers sat smoking very fine old cigarettes in the very warm literary salon.
+barbarian/barbare, primitif/She described the most destructively fashionable critics as nothing less than genuine literary barbarians.
+absorption/absorption, assimilation, concentration/Her very complete absorption in all the very finest old literature made her who she was.
+olden/ancien, d'autrefois/She had a very deep and very genuine affection for all the very beautiful old olden traditions.
+armchair/fauteuil, confortable, de salon/She settled very deeply and very contentedly into her old armchair and read all afternoon.
+blockade/blocus, embargo, bloquer/She described all forms of creative censorship as a very damaging and very unjust cultural blockade.
+shrub/arbuste, buisson/She had planted a very beautiful flowering shrub at the very entrance of her old walled garden.
+winters/hivers, passe l'hiver/She had worked through many very long and very dark winters to produce her extraordinary work.
+clergymen/clercs, membres du clergé/Several very distinguished old clergymen attended the very important and very moving memorial service.
+patrons/mécènes, clients, habitués/She had always been very lucky in having the most generous and most enlightened literary patrons.
+finances/finances, financer/She managed all her very modest personal finances with the same great care she gave to prose.
+flocked/afflua, s'est pressé/Very large and very enthusiastic crowds very eagerly flocked to every one of her public readings.
+marvelled/s'émerveilla, a été stupéfait/She very quietly marvelled at the extraordinary and quite overwhelming beauty of the very old manuscript.
+recording/enregistrant, consignant, enregistrement/She was very carefully recording all the very most significant observations in her detailed creative journal.
+abstraction/abstraction, distraction/She found all very excessive and very unnecessary abstraction in any literary argument deeply unhelpful.
+uniformity/uniformité, régularité/She believed that literary uniformity was one of the very greatest and most dangerous enemies of creativity.
+godly/pieux, vertueux, religieux/She had a very godly and very profound sense of the sacred in all the finest creative work.
+commissioner/commissaire, haut-commissaire/She was appointed as the very distinguished literary commissioner for the most important national cultural body.
+disappearing/disparaissant, qui disparaît/She watched with very great sadness as all the most wonderful old literary traditions were disappearing.
+monastic/monastique, de moine, claustral/She described her very own creative life as a very happy and very productive monastic existence.
+organize/organiser, structurer, mettre en ordre/She had an extraordinary ability to very clearly organize even the very most complex creative material.
+framework/cadre, structure, charpente/She always constructed a very careful and very clear framework before beginning to write anything.
+runaway/fugitif, incontrôlable, fulgurant/Her very first book was an absolute runaway success that surprised even her very closest friends.
+sketched/esquissa, a ébauché, décrit brièvement/She very quickly sketched the very most important and most central elements of the new project.
+shameless/effronté, honteux, sans vergogne/She found all very shameless and very deliberate literary self-promotion deeply unappealing.
+accosted/aborda, a accosté/She was very suddenly accosted by the most enthusiastic and most unexpected of all literary admirers.
+relentless/implacable, incessant, acharné/She pursued the very very highest creative standards with the most relentless and extraordinary energy.
+flanks/flancs, côtés, se trouve aux côtés/She approached all very complex creative problems from the very most unexpected and most revealing flanks.
+speakers/orateurs, haut-parleurs, intervenants/She was considered the most extraordinarily gifted of all the very distinguished and very inspiring speakers.
+Isles/îles, îles britanniques/She had a very deep and very passionate love of all the literary traditions of the Isles.
+dictates/dicte, ordres, exigences/She always follows the very deepest dictates of her own most extraordinary and most honest creative conscience.
+pies/tartes, tourtes/She made the most wonderful and the most beautifully crafted pies for all the very special occasions.
+arid/aride, stérile, sans intérêt/She always found a way to bring very great life even to the very most arid old subject.
+corporations/corporations, sociétés, entreprises/She was very suspicious of all the very powerful corporations that were increasingly dominating publishing.
+chasm/gouffre, abîme, fossé/She described the very wide and very deep creative chasm between very great talent and very hard work.
+straits/détroits, difficultés, embarras/She had found herself in very dire creative straits more than once but always recovered.
+weaknesses/faiblesses, points faibles/She was always very honest about all her own very considerable creative weaknesses and limitations.
+ceasing/cessant, s'arrêtant/She was never in any danger of ceasing in her very extraordinary and most devoted creative work.
+ducats/ducats/She had not a single old ducat to her name when she wrote her very first and greatest novel.
+overgrown/envahi, couvert de végétation/She found the most extraordinary beauty in the very overgrown and very wild old garden.
+despotic/despotique, tyrannique/She wrote very powerfully about the terrible effects of all despotic and cruel literary authority.
+edged/bordé, tranchant, s'est faufilé/She very carefully edged her way through the very most complex and most difficult argument.
+hysterical/hystérique, hilarant, fou rire/She found the very pompous response of the most fashionable critics completely and utterly hysterical.
+traps/pièges, attrape, trappes/She always very cleverly avoids all the very most obvious and the most dangerous creative traps.
+birch/bouleau, en bouleau/She loved the very beautiful and very delicate silver birch trees in the old garden.
+extensively/de façon approfondie, abondamment/She had very extensively and very thoroughly researched the very most important aspects of the subject.
+robbing/volant, dépouillant/She described all very cynical literary commercialism as nothing but robbing the very creative spirit.
+exploit/exploiter, exploit, mettre en valeur/She could always brilliantly exploit even the very most unpromising and most difficult creative material.
+moaned/gémit, a gémi/She very quietly moaned about the extraordinary difficulty of the very most challenging passage then worked on.
+actuated/animé, motivé, poussé par/She was very completely actuated by the very deepest and most genuine love of all literature.
+countenances/visages, maintien, approuve/She studied all the very different and very expressive countenances of her most extraordinary literary characters.
+intrusion/intrusion, ingérence/She regarded any unnecessary intrusion into her creative time as a very serious and very real offence.
+estimates/estimations, évalue, apprécie/She always very carefully estimates the very full difficulty of any creative challenge before beginning.
+degenerate/dégénéré, décadent, dégénérer/She described the very slow degenerate decline of any very rigid and very narrow literary tradition.
+truer/plus vrai, plus fidèle, plus authentique/She always found that the very truer and the more honest approach was always the very best.
+wreaths/couronnes, guirlandes/She described all the very beautiful and very fragrant wreaths of literary honour with some amusement.
+hens/poules/She kept a very small flock of very happy hens in the yard behind the old cottage.
+ram/bélier, maillet, enfoncer, bourrer/She had to very forcefully ram her most important and most urgent points home very clearly.
+undo/défaire, annuler, réparer/She found it very impossible to completely undo all the very considerable damage of the very harsh review.
+rapids/rapides, courant fort/She described all the very most extraordinary creative rapids of the most brilliantly inspired writing period.
+spotless/immaculé, impeccable, sans tache/She maintained a spotless reputation for complete integrity throughout her very long and remarkable career.
+variance/désaccord, variation, écart/She was very often at complete variance with all the very most fashionable critical opinion.
+battalions/bataillons/She described the very extraordinary battalions of the most remarkably devoted readers of her generation.
+papal/papal, du pape/She had a very deep and very scholarly interest in all the very important papal literary traditions.
+rust/rouille, rouiller, se rouiller/She was very determined not to let any of her very extraordinary creative skills ever rust.
+bloodshed/effusion de sang, carnage/She wrote very powerfully about the tragic bloodshed that all forms of literary intolerance could create.
+eventful/mouvementé, riche en événements/She had lived a very eventful and very extraordinarily productive and rich creative life.
+specifically/spécifiquement, précisément, en particulier/She always addressed every very important creative question very specifically and very directly.
+repressed/réprima, réprimé, a refoulé/She had very nearly repressed all her very finest creative instincts through excessive self-doubt.
+executioner/bourreau, exécuteur/She described herself as the very most merciless executioner of all unnecessary words in any draft.
+quartered/cantonné, logé, écartelé/She had very happily quartered herself in the most beautiful and most peaceful old writing room.
+hull/coque, carcasse, écosser/She described the very empty hull of any very formulaic and very lifeless literary production.
+rocked/secoua, berça, ébranla/She was very completely rocked by the most extraordinary and most completely unexpected critical response.
+strolling/se promenant, flânant/She loved strolling very slowly through the beautiful old streets when she needed to think clearly.
+champions/champions, défend, soutient/She always very actively champions the very most important and the very most deserving creative causes.
+comical/comique, amusant, drôle/She had a very wonderfully comical and very sharp wit that made everyone laugh warmly.
+ravages/ravages, dévastations/She described all the very terrible ravages of unchecked literary fashion with great wit and precision.
+disturbances/perturbations, troubles, dérangements/She had weathered many very great creative disturbances and had always emerged much stronger.
+film/film, pellicule, voile, filmer/She felt a very thin film of creative anxiety lift as she wrote the very last word.
+vapour/vapeur, buée, brume/She described the extraordinary creative vapour from which all the very finest literary ideas condensed.
+shrieking/criant, hurlant, strident/She could hear the very distant shrieking of the seagulls from her high old window.
+triumphal/triomphal, de triomphe/She made a very quietly triumphal return to the literary world after ten years of creative silence.
+denote/dénoter, désigner, indiquer/She always chose words that very precisely denote exactly and only what she intends them to mean.
+restlessness/agitation, inquiétude/She described her very productive creative restlessness as the very engine of all her finest work.
+acquitted/acquitta, a acquitté, s'est comporté/She very brilliantly acquitted herself in the very most important and most demanding public debate.
+repel/repousser, dégoûter, résister à/She had always used the very highest creative quality to repel all very inferior criticism.
+impious/impie, irrespectueux, sacrilège/She considered any very deliberate destruction of great creative work to be truly impious.
+hourly/horaire, toutes les heures, d'heure en heure/She seemed to grow hourly more deeply absorbed in the most extraordinary and most beautiful old text.
+sponge/éponge, parasiter, éponger/She had to very metaphorically sponge away all the very most confusing and most misleading old ideas.
+wanderer/vagabond, errant, nomade/She was a very dedicated intellectual wanderer who explored every very new creative territory with joy.
+axes/haches, axes/She took the very sharpest of all critical axes to the very most pretentious literary productions.
+facilitate/faciliter, rendre possible/She always tried very hard to facilitate the very most important creative work of those around her.
+initiated/initia, a lancé, initié/She had personally initiated several very important and very far-reaching literary projects.
+shrug/haussement d'épaules, hausser les épaules/She could answer the very most hostile criticism with nothing more than a very eloquent shrug.
+stimulate/stimuler, encourager, exciter/She had a very remarkable and very extraordinary ability to stimulate all genuine creative thinking.
+veterans/vétérans, anciens/She described all the very great veterans of the most important literary battles with great respect.
+athletic/athlétique, sportif, vigoureux/She had a very athletic and very energetic approach to every very challenging creative problem.
+disasters/désastres, catastrophes/She described all her very instructive early creative disasters with extraordinary honesty and dark humour.
+wins/gagne, remporte/She always wins the very most important creative arguments through sheer and extraordinary intellectual honesty.
+downfall/chute, perte, ruine/She described the very dramatic downfall of all the most rigidly fashionable literary establishments.
+yarn/fil, conte, histoire à dormir debout/She could spin the most extraordinary and most completely captivating yarn from the very simplest material.
+tumble/chute, tomber, culbute/She watched the very old and very rigid critical establishment finally begin to tumble.
+betimes/de bonne heure, à temps (archaïque)/She would rise betimes every single morning to work on the very most important creative projects.
+bethought/songea, se rappela (archaïque)/She very suddenly bethought herself of the most extraordinary and completely unexpected creative solution.
+immovable/immuable, inébranlable, inamovible/She was completely immovable in her very deep commitment to all the very highest creative standards.
+archers/archers, tireurs à l'arc/She described the very finest literary critics as the most skilled and the most accurate of all archers.
+penitent/pénitent, repentant/She was very genuinely penitent about the very few occasions when she had been less than fully honest.
+refresh/rafraîchir, renouveler, revigorer/She always took a very long walk to refresh her very remarkable and very busy creative mind.
+attaining/atteignant, parvenant à/She had spent her whole extraordinary life very steadily attaining the very very highest creative standards.
+completing/achevant, terminant/She was very happily completing the very most important and most ambitious project of her whole career.
+consuming/consumant, passionnant, dévorant/She had a very consuming and quite extraordinary passion for all the very greatest literature.
+priceless/inestimable, sans prix, impayable/She considered all the very greatest works of literature to be the most absolutely priceless human treasures.
+chasing/poursuivant, courant après/She was always very eagerly chasing every very new and very extraordinary creative idea.
+violate/violer, enfreindre, profaner/She would never violate any of the very deep trust that her devoted readers placed in her.
+importation/importation, introduction/She was very strongly in favour of the very creative importation of ideas from very different traditions.
+epithet/épithète, qualificatif, surnom/She used every very precise and very perfectly chosen epithet with extraordinary care and skill.
+lightness/légèreté, clarté, vivacité/She brought a very wonderful lightness of touch to even the very most serious and difficult subjects.
+prized/précieux, estimé, chéri, récompensé/She prized complete honesty above every other creative and personal quality.
+stipulated/stipula, a précisé, exigé/She had very clearly stipulated all the very most important creative conditions before agreeing.
+flitted/voltigea, s'est faufilé, a papillonné/She very quickly flitted from one very extraordinary and most exciting new creative idea to another.
+straightforward/direct, simple, honnête/She had a very straightforward and very completely honest approach to every very complex creative challenge.
+wistfully/avec nostalgie, avec mélancolie/She looked very wistfully back on all the most wonderful and most extraordinary early creative years.
+agreeing/étant d'accord, acceptant/She was very warmly agreeing with every very important and most carefully argued critical point.
+conflicts/conflits, luttes, entre en conflit/She had always found that the very greatest creative conflicts produced the most extraordinary work.
+prosper/prospérer, réussir, s'épanouir/She had worked very hard throughout her life to help all genuine literary talent to prosper.
+entertainments/divertissements, spectacles/She described all the very finest and most important literary productions as the greatest of entertainments.
+stoutly/fermement, résolument, vaillamment/She very stoutly and very completely defended all the very most important literary principles.
+grating/grille, râpe, grinçant, irritant/She found the very grating and very harsh tone of the most hostile criticism deeply unpleasant.
+affinity/affinité, parenté, attraction/She felt a very deep and very genuine creative affinity with all the very greatest old writers.
+striped/rayé, à rayures/She wore a very beautiful old striped cotton shirt on all her very informal writing days.
+intoxication/ivresse, enivrement/She described the very extraordinary creative intoxication of the most brilliantly inspired writing with great vividness.
+colder/plus froid, plus froid/The atmosphere in the room grew very much colder when she began to state her very honest position.
+covert/caché, secret, couvert (d'oiseaux)/She had a very covert and very brilliantly disguised way of expressing her most radical ideas.
+hazardous/dangereux, risqué, hasardeux/She found the very most hazardous and most difficult creative territory to be the very most rewarding.
+ruthless/impitoyable, sans pitié/She was absolutely ruthless in her very careful elimination of every single superfluous word.
+vex/contrarier, agacer, irriter/She would never allow any very petty or very small annoyance to vex her creative spirit.
+smells/odeurs, sent/Her extraordinary writing smells of truth and of the very most completely authentic human experience.
+insert/insérer, ajouter, introduction/She knew exactly where to insert the very most important and most revealing creative detail.
+skilfully/habilement, avec adresse/She very skilfully and very brilliantly navigated the most complex and most demanding creative territory.
+splash/éclaboussure, effet, s'éclabousser/She made an extraordinary creative splash with her very first and most extraordinary novel.
+purified/purifia, a purifié, épuré/She had very completely purified her remarkable prose style over many very long and hard years.
+atom/atome, brin, parcelle/She would not sacrifice a single atom of her very deep creative integrity for any reward.
+clustered/groupé, rassemblé, s'est réuni/The very most important and most interesting creative ideas clustered very naturally around the main theme.
+pounded/martela, a battu, a pilé/She pounded away very relentlessly at the very most difficult and the most challenging passage.
+discrimination/discrimination, discernement/She showed the very greatest discrimination in her very careful selection of all truly important material.
+drivers/conducteurs, moteurs, facteurs déterminants/She identified the very main creative drivers behind all the most important literary movements.
+lonesome/solitaire, isolé/She found the very lonesome quality of the creative life to be enormously and very positively productive.
+sharpened/aiguisa, a affiné, a acéré/She had very greatly sharpened all her extraordinary creative skills through many very long years of work.
+versed/versé, expérimenté, instruit/She was very deeply and very extensively versed in all the very greatest literary traditions.
+aspire/aspirer, viser, ambitionner/She would always very actively aspire to the very very highest and the most extraordinary creative standards.
+unaffected/naturel, sincère, non touché/She was always completely unaffected in all her very public dealings and enormously warm.
+offending/offensant, qui offense, qui commet/She was very careful never to offend any very sincere creative voice however different from her own.
+calmer/plus calme, plus serein/She felt very much calmer and very much more focused once she had begun to write.
+repugnance/répugnance, aversion, dégoût/She felt a very deep and very genuine repugnance for all very deliberately dishonest literary work.
+notably/notamment, en particulier, surtout/She was most notably admired for the very extraordinary precision and clarity of her remarkable prose.
+unarmed/désarmé, sans armes/She approached even the very most hostile critical encounter unarmed but completely and utterly fearless.
+unwise/imprudent, peu sage, maladroit/She considered it very unwise to ignore the very most important and the most fundamental creative principles.
+courtly/courtois, raffiné, de la cour/She had a very courtly and very beautifully gracious manner that charmed everyone she met.
+abounding/abondant, regorgeant, foisonnant/Her very extraordinary work is abounding in the very most vivid and the most precisely observed details.
+triumphed/triompha, a triomphé/She had very completely and very gloriously triumphed over all the very most difficult creative challenges.
+ascetic/ascétique, austère, sobre/She led a very ascetic and very simple creative life that she found enormously productive.
+dishonest/malhonnête, déloyal/She considered any deliberate dishonesty in any form of writing to be the very gravest of offences.
+joking/plaisantant, blaguant, qui plaisante/She was very often joking but there was always a very deep and serious truth behind the joke.
+livid/livide, furieux, très en colère/She was very completely livid when she discovered the very careless and very deliberate misrepresentation.
+visionary/visionnaire, prophétique/She was widely considered to be the most extraordinarily visionary writer of her entire remarkable generation.
+peremptory/péremptoire, autoritaire, impérieux/She made a very peremptory but very completely justified demand for the very highest creative quality.
+sympathize/sympathiser, compatir, comprendre/She could always very completely sympathize with any writer struggling with the very most difficult creative challenge.
+clutch/agripper, embrayer, étreinte, embrayage/She made one final very desperate creative clutch at the most extraordinary and most elusive idea.
+heretics/hérétiques, dissidents/She described all the very most brilliantly original and most daring writers as the greatest literary heretics.
+salad/salade/She prepared a very beautiful and very fresh salad from the herbs and leaves in her garden.
+ambush/embuscade, piège, tendre une embuscade/She described the very extraordinary creative ambush of the most unexpectedly brilliant new literary idea.
+lavished/prodigua, a dispensé généreusement/She had very generously lavished all her most extraordinary knowledge on every student who came to her.
+mates/compagnons, camarades, s'accouple/She had always found the very greatest creative mates among all those who truly loved literature.
+adhere/adhérer, se conformer, rester fidèle/She would always very firmly adhere to all the very most important creative principles she held.
+lining/doublure, revêtement, bordure/She always managed to find the very bright creative lining in the very darkest critical cloud.
+profited/profita, a bénéficié/She had very greatly profited from all the most difficult and the most demanding creative experiences.
+quarry/carrière, proie, gibier/She pursued every very exciting creative quarry with extraordinary patience and very great skill.
+cavaliers/cavaliers, chevaliers/She described all the very most swaggering and most self-important critics as mere literary cavaliers.
+fortresses/forteresses, bastions/She described all the very rigid and most defended literary fortresses of the old establishment.
+genteel/distingué, raffiné, bien élevé/She had a very genteel and very beautifully natural manner in all very public situations.
+prerogative/prérogative, privilège, droit exclusif/She firmly believed it was every very serious writer's prerogative to say exactly what they thought.
+yelling/criant, hurlant, qui crie/She was never guilty of yelling her very most important creative arguments but stated them very quietly.
+breathes/respire, exhale, insuffle/Her very extraordinary prose breathes with the most natural and the most beautifully authentic creative life.
+hearken/écouter, prêter l'oreille (archaïque)/She would always very carefully hearken to the very wisest and most experienced creative voices.
+stalks/tiges, traque, s'avance furtivement/She stalks every very new and very extraordinary creative idea with extraordinary patience and skill.
+ignoring/ignorant, faisant fi de/She was very firmly ignoring all the very most fashionable and the most distracting literary trends.
+meats/viandes, mets/She prepared the very most simple but very most nourishing meats for the long creative winter.
+broadcast/diffusion, diffuser, répandre/She broadcast her very most important and most considered creative ideas very widely and very generously.
+swamps/marécages, submerge/She never allows the very considerable administrative burden to swamp her most important creative work.
+credited/crédité, attribué, reconnu/She was very widely credited as the most important and most original voice of her entire remarkable era.
+eligible/éligible, qui remplit les conditions/She was very clearly the most eligible and the most brilliantly deserving candidate for the very great award.
+matched/assorti, égalé, apparié/She was very perfectly matched with her most extraordinary and most completely devoted literary editor.
+feeds/nourrit, alimente/She very generously feeds all her very most extraordinary creative energy into everything she writes.
+morale/moral, esprit/She always worked very hard to maintain a very high creative morale among all those around her.
+corresponds/correspond, échange des lettres/She very regularly corresponds with writers and readers all across the very wide literary world.
+gust/rafale, bouffée, éclat/A very sudden gust of extraordinary creative inspiration swept through her very restless and very fertile mind.
+wench/jeune femme, fille (archaïque)/The very old story featured a very brave and very clever old wench who outwitted everyone.
+jovial/jovial, joyeux, de bonne humeur/She had a very jovial and very completely infectious sense of humour that warmed all hearts.
+preferring/préférant, aimant mieux/She was always very clearly preferring the very most honest and the very most direct creative approach.
+bounces/rebondit, saute, s'élance/Her very extraordinary creative energy bounces from one very exciting new idea to another.
+feasting/festoyant, se régalant/She was very happily feasting on all the most extraordinary and most beautifully written old books.
+enquire/s'enquérir, demander, se renseigner/She would always very carefully enquire about every very important aspect before making any decision.
+reverently/avec révérence, respectueusement/She very reverently handled every single one of the most precious and most beautiful old manuscripts.
+crumpled/froissé, chiffonné, a froissé/She found the most extraordinary old crumpled letter hidden at the very back of the drawer.
+unfavourable/défavorable, peu propice/She received a very unfavourable early response but continued working with extraordinary determination.
+fossil/fossile, vieux jeu/She described all the most rigidly conventional literary critics as the most delightful old fossils.
+sacrificing/sacrifiant, renonçant à/She was never afraid of sacrificing all very comfortable certainties in pursuit of the deepest truth.
+tinged/teinté, nuancé, imprégné/Her very beautiful prose was always very subtly tinged with the most extraordinary and quiet melancholy.
+spouse/époux, épouse, conjoint/She dedicated her very most extraordinary and most celebrated novel to her most devoted spouse.
+expulsion/expulsion, renvoi, exclusion/She described the very dramatic expulsion of all the most genuinely original voices from the old establishment.
+respite/répit, pause, délai/She allowed herself a very brief respite before beginning the most difficult and most important chapter.
+flitting/voletant, passant rapidement, qui passe/She was very constantly flitting between the most extraordinary and most completely different creative ideas.
+loop/boucle, loop, former une boucle/She found herself caught in a very strange creative loop that she had to very carefully escape.
+authoritative/autoritaire, faisant autorité, fiable/She was considered the most authoritative and the most completely reliable critic of her whole generation.
+earnings/revenus, gains, salaire/She put all her very modest earnings directly back into buying more very extraordinary old books.
+fiddle/violon, tricher, bricoler/She would fiddle with a very difficult sentence for hours until it was completely and perfectly right.
+expand/développer, s'étendre, élargir/She always tried very hard to expand the very extraordinary range of her already very wide reading.
+wearisome/ennuyeux, fatigant, lassant/She found all very unnecessarily long and very poorly written literary criticism deeply wearisome.
+tolerate/tolérer, supporter, accepter/She could not tolerate any very careless or very dishonest treatment of any very serious creative work.
+faithless/infidèle, perfide, sans foi/She described all the very faithless and the most disloyal of all literary critics with great precision.
+flats/appartements, plats, bémols/She had lived in many very different small flats before finding her perfect and most productive home.
+warnings/avertissements, mises en garde/She had given many very clear and very direct warnings about the dangers of creative dishonesty.
+wrists/poignets/She wore a very simple and very beautiful old bracelet on each of her very delicate wrists.
+roam/errer, se promener, vagabonder/She loved to very freely roam through all the most extraordinary and most different literary traditions.
+indolence/indolence, paresse, nonchalance/She had absolutely no patience for any kind of intellectual indolence in any form whatsoever.
+perch/perchoir, se percher, position élevée/She found her very favourite creative perch in the most beautiful and most secluded old library corner.
+civic/civique, municipal, de la cité/She had a very strong and very genuine civic sense of responsibility to all her readers.
+remotest/le plus éloigné, le plus lointain, infime/She had not the very remotest idea of ever compromising her very deep creative principles.
+masked/masqué, déguisé, a masqué/She very cleverly masked all the very most profound truths in apparently very simple old language.
+contemptuously/avec mépris, dédaigneusement/She very contemptuously dismissed all the very most pompous and self-important critical opinions.
+disconcerted/déconcerté, décontenancé, a déconcerté/She was very momentarily disconcerted by the very unexpected and very surprising critical response.
+scarf/écharpe, foulard/She wrapped her very beautiful old silk scarf around her neck and went out to think.
+efficacy/efficacité, effet, vertu/She believed very firmly in the extraordinary efficacy of all very carefully and very honestly chosen words.
+disorders/désordres, troubles, maladies/She wrote with great compassion about all those suffering from the very most debilitating creative disorders.
+summed/résuma, a récapitulé/She very brilliantly summed up the entire very complex argument in a single very perfect sentence.
+protests/protestations, s'oppose, proteste/She always very firmly and very clearly protests against any very unjust treatment of creative work.
+lanterns/lanternes, fanaux/She loved the very warm and very beautiful glow of the old lanterns in the ancient streets.
+relaxation/relaxation, détente, assouplissement/She allowed herself very little relaxation while working on the most important and most difficult project.
+rhymes/rimes, rime, fait rimer/She always loved the very beautiful and very precise rhymes of the very greatest old poets.
+survivors/survivants, rescapés/She described all the most extraordinary survivors of the very fiercest and most difficult literary battles.
+utterances/paroles, déclarations, propos/She studied all the very most important utterances of the greatest writers with extraordinary care.
+folio/folio, in-folio/She found the most extraordinary and most beautiful old folio edition in the very dusty old attic.
+spices/épices, piments/She described the very extraordinary literary spices that made the very finest and the most memorable prose.
+needy/nécessiteux, dans le besoin, pauvre/She had always been very generous in supporting all the most genuinely needy creative talents.
+shaved/rasé, a rasé, réduit au minimum/She had very completely shaved her very enormous first draft down to its very essential core.
+cavity/cavité, creux, carie/She described the very hollow cavity left by the departure of the most extraordinarily gifted old writer.
+minutely/minutieusement, en détail/She examined every single word of the very long manuscript most minutely before approving anything.
+workmanship/travail, facture, qualité d'exécution/She was very widely admired for the extraordinary workmanship of her perfectly and very beautifully crafted prose.
+believer/croyant, partisan, adepte/She was a very firm and very complete believer in the absolute necessity of all creative honesty.
+continents/continents/She had travelled across many very different continents in pursuit of the most important literary knowledge.
+advertised/publié, annoncé, a fait la publicité de/She had never advertised herself but let the extraordinary quality of her work speak entirely.
+grievance/grief, doléance, sujet de plainte/She listened very patiently and very carefully to every very genuine and most heartfelt creative grievance.
+banishment/bannissement, exil, exclusion/She described the very painful banishment of so many great writers from the very literary mainstream.
+dubious/douteux, incertain, suspect/She was always very dubious about any very fashionable critical theory that lacked real substance.
+volcano/volcan/She described the most extraordinary creative volcano that had erupted so spectacularly in her finest novel.
+domination/domination, emprise/She would never accept the domination of any single very fashionable school of very narrow literary thought.
+scar/cicatrice, marquer, blesser/Every very great creative struggle left a very small but very instructive scar on the remarkable work.
+fry/faire frire, fretin, progéniture/She would never be content among the very small literary fry but always aimed for the highest.
+irritable/irritable, irascible, susceptible/She became very irritable whenever the very most important and most concentrated creative work was interrupted.
+purchases/achats, acquis, prise/She made the most extraordinary literary purchases at every very old and very dusty bookshop she found.
+creates/crée, génère, produit/She creates the most extraordinarily vivid and the most completely convincing fictional worlds imaginable.
+perfumed/parfumé, odorant/She described the very perfumed quality of the very finest and most beautifully crafted old prose.
+aright/correctement, bien, comme il faut/She always made very sure that she had understood everything completely aright before writing.
+strand/brin, plage, fil, laisser en rade/She followed every very interesting creative strand wherever it very interestingly led her.
+yells/cris, hurle, gueule/She never yells her most important arguments but states them with very great and very quiet clarity.
+chests/poitrines, coffres, caisses/She found the most extraordinary collection of very beautiful old books locked in several ancient chests.
+relinquish/abandonner, renoncer à, céder/She would never relinquish any very important creative principle however very great the pressure.
+swiftness/rapidité, vitesse, promptitude/She was very widely admired for the extraordinary swiftness and the very great precision of her mind.
+manure/engrais, fumier, fertiliser/She described all very harsh and very honest criticism as the very best possible creative manure.
+midway/à mi-chemin, au milieu/She paused very thoughtfully midway through the very most difficult and the most demanding chapter.
+ant/fourmi/She worked with the extraordinary diligence and very complete dedication of the most industrious old ant.
+lunatic/fou, dément, insensé/She described the very inspired creator as the most brilliantly controlled and most productive creative lunatic.
+cleanliness/propreté, netteté/She believed that very great cleanliness of creative thought was the very foundation of all fine writing.
+dishonour/déshonneur, honte, déshonorer/She would never dishonour her very remarkable reputation by producing anything less than her very best.
+lull/accalmie, pause, calmer/She used every very brief creative lull to very carefully read and very broadly think.
+momentarily/momentanément, brièvement/She was very momentarily and very completely overwhelmed by the most extraordinary and most beautiful old passage.
+imaginations/imaginations, esprits créatifs/She wrote specifically to fire all the very most extraordinary and the most completely fertile imaginations.
+multiple/multiple, nombreux, varié/She had received multiple very prestigious awards for her truly extraordinary and most celebrated body of work.
+regal/royal, majestueux, imposant/She had a very naturally regal bearing that made her presence immediately felt in any room.
+sickening/écœurant, répugnant, effrayant/She found the very deliberate destruction of any creative work genuinely and very deeply sickening.
+ape/singe, imiter, singer/She would never ape any other writer but always followed her very own extraordinary creative path.
+grounded/fondé, ancré, équilibré/She was a very deeply grounded person with a very firm sense of what truly mattered.
+diminishing/diminuant, décroissant, qui s'amenuise/Her very extraordinary creative energy showed absolutely no signs of diminishing with very great age.
+plumage/plumage/She described the extraordinary literary plumage of all the very most brilliant and most spectacular old peacocks.
+antagonism/antagonisme, hostilité, opposition/She faced the most extraordinary antagonism from the old establishment but always very completely triumphed.
+decrease/diminution, baisse, diminuer/She would never allow any very unnecessary decrease in the very highest standards she set herself.
+weights/poids, haltères, pesanteur/She very carefully balanced all the very different weights of the most complex and demanding argument.
+prosecute/poursuivre en justice, mener à bien/She was very determined to prosecute her very most important creative aims with extraordinary dedication.
+conjure/conjurer, évoquer, faire apparaître/She could conjure the most extraordinary and most completely vivid creative worlds from nothing.
+boasting/vantardise, se vantant/She was never guilty of boasting however very great and very extraordinary her achievements truly were.
+hooks/crochets, hameçons, accroche/She hooks all her very many readers from the very first and most extraordinary sentence.
+provocation/provocation, défi, incitation/She used every very creative provocation as a very useful and most productive creative stimulus.
+paler/plus pâle, plus blême/Her very considerable enthusiasm grew very much paler when she read the most terrible review.
+stitch/point de couture, maille, douleur, coudre/She would not drop a single very important creative stitch in any very complex narrative weave.
+variously/diversement, de différentes façons/She was very variously and very widely described as the very greatest writer of her remarkable era.
+amended/amenda, a modifié, corrigé/She very carefully amended the most important sections of the very long and complex manuscript.
+melodious/mélodieux, harmonieux/She had a very melodious and very beautifully resonant quality in all her very finest prose.
+friendships/amitiés, liens d'amitié/She had always placed the very greatest value on all her deep and very long-standing friendships.
+squirrel/écureuil, thésauriser/She would squirrel away every very small but very fascinating creative detail for future very careful use.
+dismayed/consterné, atterré, a consterné/She was very greatly dismayed by the very careless and very thoughtless treatment of the old manuscripts.
+constraint/contrainte, limitation, retenue/She worked best with a very clear creative constraint that focused her very extraordinary imagination.
+ruffian/voyou, brute, rufian/She described all the very most aggressive and most unreasonable critics as genuine literary ruffians.
+mattered/importait, a eu de l'importance/She believed that only the very very highest quality of creative work truly and deeply mattered.
+embroidery/broderie, enjolivements/She described the extraordinary narrative embroidery of her most magnificent and most beautifully complex novel.
+observers/observateurs, témoins/She had always been considered the most acute and the most extraordinarily perceptive of all creative observers.
+tablet/tablette, comprimé, plaque/She wrote all her very first and most important creative ideas on a very old stone tablet.
+tearful/en larmes, larmoyant/She was very briefly tearful when she read the most extraordinarily moving and beautiful passage.
+wonted/habituel, coutumier (archaïque)/She returned with great relief to her wonted very disciplined and very productive creative routine.
+zest/enthousiasme, zeste, ardeur/She approached every very new creative project with an absolutely extraordinary zest and infectious enthusiasm.
+cooperation/coopération, collaboration/She believed very strongly in the very great creative power of genuine intellectual cooperation.
+fabulous/fabuleux, extraordinaire, incroyable/She produced a truly fabulous and absolutely extraordinary body of very remarkable and very lasting work.
+glimmering/luisant, scintillant, lueur/She could see a very faint but very promising glimmering of the most extraordinary new creative idea.
+nouns/noms, substantifs/She was extraordinarily precise in her very careful and most considered selection of all the very finest nouns.
+yawning/bâillant, béant, qui s'ennuie/She described the very yawning gap between all very fashionable literary opinion and genuine quality.
+stronghold/bastion, forteresse, citadelle/She had created a very remarkable stronghold of the very finest and most important literary standards.
+exacted/exigea, a imposé/She very firmly exacted the very highest standard of absolute honesty from herself at all times.
+sanctioned/sanctionné, approuvé, a autorisé/She had very clearly sanctioned only the very most important and most carefully considered creative work.
+signing/signant, signature/She spent a very long and very wonderful afternoon signing copies of her most beloved and most celebrated book.
+blissful/bienheureux, délicieux, merveilleux/She felt a very complete and very blissful creative satisfaction at having finally finished the great work.
+drenched/trempé, imbibé, a trempé/She was very completely drenched by the very heavy rain but had kept writing throughout.
+irritating/irritant, agaçant, contrariant/She found all very unnecessary and very careless interruptions to her work deeply irritating.
+precipitous/précipité, abrupt, escarpé/She always avoided any very precipitous or very hasty creative decision of any kind whatsoever.
+refrained/s'abstint, s'est retenu/She very wisely refrained from making any very public comment until she had all the very full facts.
+blotted/taché, a entaché, effacé/She had very completely blotted out all the very most distracting and most counterproductive negative thoughts.
+combatants/combattants, adversaires/She described all the very fiercest and the very most brilliant of all the great literary combatants.
+dejected/abattu, déprimé, découragé/She was very briefly dejected before rallying with the most extraordinary and most complete creative determination.
+attic/grenier, mansarde/She had found the most extraordinary collection of very old and very precious books in the attic.
+windy/venteux, verbeux, creux/She found all very windy and very pompous critical writing completely and utterly insufferable.
+burdened/chargé, accablé, alourdi/She was never burdened by the very great weight of her very extraordinary literary reputation.
+incompatible/incompatible, inconciliable/She found all very artificial and very mechanical literary theories completely incompatible with genuine creativity.
+levelled/nivelé, aplani, a critiqué/Several very serious accusations were very publicly levelled at the most important literary establishment.
+prejudiced/préjugé, partial, a prévenu/She was very strongly opposed to all very prejudiced and very narrow-minded critical thinking.
+rousing/stimulant, entraînant, retentissant/She gave the most extraordinarily rousing and most completely memorable speech at the very important gathering.
+spire/flèche, aiguille, clocher/She loved the very beautiful and very graceful old stone spire of the ancient and lovely church.
+sequel/suite, résultat, conséquence/She wrote the most extraordinarily brilliant sequel to her very most celebrated and most beloved first novel.
+sluggish/lent, paresseux, peu actif/She would never allow her very extraordinary creative mind to become in any way sluggish.
+treasurer/trésorier/She served very ably as the very careful and most responsible treasurer of the literary society.
+tangle/enchevêtrement, confusion, s'emmêler/She found herself in a very strange creative tangle that she very cleverly and brilliantly resolved.
+potential/potentiel, éventuel, capacités/She had always shown an absolutely extraordinary creative potential from her very earliest age.
+submissive/soumis, docile, obéissant/She was never submissive to any form of critical authority and always spoke her very own mind.
+tottering/chancelant, qui trébuche, en ruine/She described all the very old and very tottering literary certainties of her era with great wit.
+nocturnal/nocturne, de nuit/She was a very dedicated nocturnal worker who produced her very best work in the small hours.
+observant/observateur, attentif, perspicace/She was extraordinarily observant and noticed every very smallest and most revealing detail around her.
+believers/croyants, partisans, adeptes/She had always had the most devoted and the most extraordinarily passionate believers in her work.
+surprises/surprises, étonne, réserve/Her very extraordinary writing always surprises even the most seasoned and the most experienced old reader.
+prodigal/prodigue, dissipateur, enfant prodigue/She had never been prodigal with any of her very precious and very limited creative energy.
+addicted/accro, dépendant, passionné/She was very completely addicted to all the very most extraordinary and most beautifully written old literature.
+angelic/angélique, d'ange, très doux/She had a very angelic patience with even the most confused and the most struggling young writers.
+jet/jet, jais, noir comme le jais/She described her very beautiful old pen as a jet-black instrument of very extraordinary creative power.
+skillful/habile, adroit, talentueux/She was extraordinarily skillful in all the very most delicate and most demanding aspects of her craft.
+ants/fourmis/She worked with the extraordinary collective energy and single-minded purpose of the most industrious ants.
+dot/point, marque, tiret, parsemer/She placed the very final dot at the very end of the most extraordinary sentence.
+spruce/épicéa, élégant, soigné/She emerged looking very spruce and very completely refreshed from her very long restorative holiday.
+lookout/guetteur, vigie, perspective/She was always very much on the very keen lookout for any very extraordinary new talent.
+whit/brin, iota, peu (archaïque)/She did not care a single whit for any very fashionable literary opinion of any kind.
+compartment/compartiment, case/She kept all her very most important research in a very carefully organised and very separate compartment.
+awaits/attend, est en attente de/She awaits every very new and very extraordinary creative challenge with the most extraordinary enthusiasm.
+seating/placement, places assises, installation/She was given the very most distinguished seating at the very most important literary ceremony.
+tributary/tributaire, affluent, qui rend hommage/She described her very first important work as a very loving tributary to her greatest mentor.
+forgave/pardonna, a pardonné/She very quickly and very completely forgave everyone who had ever treated her very unfairly.
+ferns/fougères/She kept several very beautiful old ferns in the large windows of her very light writing room.
+loomed/se profila, a surgi/The most important creative challenge of her career very suddenly and very dramatically loomed before her.
+basic/de base, fondamental, élémentaire/She understood all the very basic and most fundamental requirements of the very finest creative work.
+beaver/castor, s'acharner/She would beaver away very quietly and very patiently at the most difficult old creative problem.
+grape/raisin, vigne/She loved the very beautiful old grape vines that covered the warm stone walls of the garden.
+bewilderment/perplexité, confusion, stupéfaction/She felt a very brief bewilderment before the most extraordinary and most brilliant creative solution appeared.
+dawning/naissant, qui pointe, aurore/She felt a very beautiful dawning of the most extraordinary new creative understanding.
+deepening/approfondissement, qui s'approfondit/The mystery was deepening with every new page of the old manuscript.
+mended/réparé, raccommodé/The torn pages were carefully mended before the manuscript was returned to the archive.
+mariners/marins, matelots/Seasoned mariners gathered at the old harbour to share their most extraordinary tales.
+obnoxious/odieux, insupportable, répugnant/The most obnoxious critics were often the least qualified to judge any serious work.
+calculating/calculateur, qui calcule, méthodique/Every very calculating move in the complex literary negotiation was made with great precision.
+orators/orateurs, tribuns/The greatest orators of the ancient world had studied rhetoric with extraordinary dedication.
+lick/lécher, coup de langue, battre/The old cat would lick its paws contentedly beside the warm and glowing fire.
+recite/réciter, déclamer/Every student was asked to recite the most beautiful passages from memory.
+tying/attachant, liant, nouant/He spent the morning tying all the old manuscripts into neat and carefully labelled bundles.
+affirmative/affirmatif, positif/The answer was a very clear and very emphatic affirmative.
+creaking/grinçant, qui craque/The creaking of the very old floorboards disturbed the deep silence of the ancient library.
+pretends/fait semblant, prétend/Nobody pretends that producing truly great writing is anything other than very hard work.
+tattered/en lambeaux, déchiré, usé/The tattered old cover of the beloved book told the story of its many devoted readers.
+ruffled/froissé, ébouriffé, perturbé/The very harsh criticism ruffled the composure of even the most experienced old writer.
+altitude/altitude, hauteur/The extraordinary altitude of the creative ambition took everyone completely by surprise.
+dough/pâte, fric, argent/The very old baker shaped the dough with the same loving care a writer gives to prose.
+garlands/guirlandes, couronnes/Beautiful garlands of fresh flowers decorated the very old hall for the literary celebration.
+meekly/doucement, humblement, docilement/The very young writer meekly accepted all the most important and most helpful criticism.
+idolatry/idolâtrie, adoration excessive/Blind idolatry of any literary figure was always considered intellectually very dangerous.
+kindling/allumant, bois d'allumage/The kindling of genuine creative passion in young readers was the most important task.
+adaptation/adaptation, version/The very brilliant adaptation of the old novel for the stage was universally and warmly praised.
+fleeing/fuyant, en fuite/The extraordinary story began with the protagonist fleeing through the dark and very ancient city.
+leant/s'appuya, se pencha/He leant very thoughtfully against the old stone wall and considered the difficult problem.
+glacier/glacier/The old story described a very dramatic journey across a vast and completely terrifying glacier.
+partiality/partialité, faiblesse pour, préférence/Any obvious partiality in critical judgment undermined the very credibility of the argument.
+reinforced/renforcé, a renforcé/Every new discovery very greatly reinforced the most important argument of the whole remarkable work.
+tangible/tangible, concret, palpable/The most extraordinary creative achievement became finally and very wonderfully tangible.
+mahogany/acajou, en acajou/The very old mahogany desk had been used by three generations of devoted and gifted writers.
+requests/demandes, requêtes, sollicitations/All very reasonable requests for assistance were met with the greatest possible generosity.
+cope/faire face, supporter, s'en sortir/Every very serious writer must learn to cope with the inevitable periods of creative doubt.
+firmament/firmament, ciel, voûte céleste/The greatest writers shine like brilliant stars in the vast literary firmament.
+ablest/le plus habile, le plus capable/The ablest critics were always those who had also practised the very craft they judged.
+corridors/couloirs, corridors/The long corridors of the very ancient library were lined with the most extraordinary old portraits.
+eke/obtenir avec peine, compléter/Every dedicated writer must sometimes eke out the very finest ideas from the most unpromising material.
+presumably/vraisemblablement, on suppose/The very extraordinary discovery was presumably the most important of the whole remarkable century.
+alacrity/empressement, vivacité, alacrité/The invitation was accepted with great alacrity and considerable genuine enthusiasm.
+filth/saleté, ordures, crasse/Deliberate intellectual filth was always the very lowest form of so-called literary production.
+terrestrial/terrestre, de ce monde/All very great literature celebrates the richness of ordinary terrestrial human experience.
+vassals/vassaux, sujets, serviteurs/The old story described very loyal vassals who served their lord with complete and total devotion.
+cleverly/habilement, astucieusement/The most difficult argument was very cleverly and very beautifully constructed throughout.
+expectancy/attente, espérance/A wonderful air of expectancy filled the old hall before the very important reading began.
+furtive/furtif, sournois/A furtive glance at the most extraordinary old manuscript revealed its true extraordinary importance.
+atonement/expiation, réparation/The most moving part of the old novel dealt with the very complex theme of atonement.
+clients/clients, patients/Several very important clients were waiting very patiently in the distinguished old publisher's rooms.
+lazily/paresseusement, nonchalamment/The very beautiful old cat lazily stretched out in the warmth of the afternoon sun.
+singly/individuellement, un à un/Each very important creative decision was considered very carefully and singly on its own merits.
+lusty/vigoureux, robuste, plein de vitalité/A lusty and very extraordinary creative energy characterised all the work of his finest period.
+droll/drôle, amusant, cocasse/The most droll and most unexpectedly funny passage appeared in the very middle of the serious chapter.
+consigned/consigna, expédié, relégué/The most important old manuscripts were carefully consigned to the very finest national archive.
+nearing/approchant, qui s'approche/As the very important deadline was nearing he worked with ever greater concentration and speed.
+badge/badge, insigne, marque/Creative honesty was always considered the very finest badge of the truly dedicated writer.
+pike/brochet, lance, pique/The very old story described a fierce warrior armed with a long and very beautifully decorated pike.
+postpone/reporter, remettre, différer/It was never wise to postpone any very important and very necessary creative decision.
+levity/légèreté, manque de sérieux/A certain very charming levity lightened even the very most difficult and most serious old passages.
+objectionable/choquant, répréhensible, contestable/Any deliberately objectionable distortion of literary truth was immediately and very firmly challenged.
+waged/mena, a livré, engagé/A very long and very bitter campaign was waged in defence of all creative freedom.
+memorandum/mémorandum, note, aide-mémoire/A very important memorandum was carefully circulated to all the most distinguished members of the committee.
+ankle/cheville/He twisted his ankle on the very steep and very uneven old stone staircase.
+constituents/constituants, électeurs, composants/The very many different constituents of any great literary work must be perfectly balanced.
+ferry/ferry, bac, traversier/The very old ferry crossed the wide river every morning carrying all the most devoted readers.
+liberated/libéra, libéré, affranchi/The most extraordinary creative work liberated all its very many readers from the narrowest thinking.
+lengths/longueurs, distances, efforts/He went to extraordinary lengths to ensure every single detail was perfectly and completely accurate.
+penal/pénal, de droit pénal, punitif/The very severe penal consequences of any literary censorship were described with great and passionate force.
+suspend/suspendre, interrompre, ajourner/It was sometimes necessary to suspend all very ordinary activities when the greatest ideas arrived.
+lure/attrait, appât, attirer/The very greatest lure of all the finest literature was its extraordinary and absolute honesty.
+eclipse/éclipse, éclipser/No very fashionable literary trend could ever completely eclipse the very greatest and most enduring work.
+whirlwind/tourbillon, tornade, très rapide/The most extraordinary creative whirlwind produced the most remarkable and most beautifully written novel.
+cutter/cutter, coupe-papier, couteau/The very sharp old paper cutter was used with great care on the most precious old volumes.
+prettily/joliment, agréablement/The very old garden was most prettily arranged with the most wonderfully fragrant flowers.
+sprinkle/saupoudrer, parsemer, arroser légèrement/The very best writers sprinkle their most profound truths very naturally throughout the whole work.
+recruits/recrues, nouvelles recrues, recrute/Every very important literary movement recruits its most extraordinary talents from unexpected places.
+remonstrances/remontrances, protestations/All the very earnest remonstrances fell on completely deaf ears at the very old establishment.
+mutilated/mutilé, défiguré, a mutilé/The most extraordinary old manuscript had been very badly mutilated by careless and thoughtless handling.
+turtle/tortue/The very old story featured a remarkably wise old turtle who spoke in beautiful and ancient proverbs.
+pyramid/pyramide/He constructed a most extraordinary creative pyramid of very carefully considered and very brilliantly interlocking ideas.
+franchise/franchise, droit de vote, liberté/Complete creative franchise was always considered the very most fundamental right of every serious writer.
+innocently/innocemment, sans malice/The most extraordinary confession was made very innocently and with complete and very genuine sincerity.
+courtier/courtisan, homme de cour/The very brilliant old courtier had written the most extraordinarily beautiful and most insightful memoirs.
+fumes/fumées, vapeurs, être furieux/Invisible creative fumes from the most extraordinary old books filled the entire beautiful old library.
+interfering/s'ingérant, interférant, qui interfère/Any unnecessarily interfering critical opinion always did more harm than any very good.
+locomotive/locomotive/The very old locomotive pulled away from the beautiful station carrying the most distinguished literary delegation.
+reposed/se reposa, était allongé, basé/The very great authority of the work reposed entirely on its absolute creative honesty.
+separates/sépare, distingue, divise/What truly separates the very greatest writers is their complete and total commitment to truth.
+sheds/abris, hangars, se débarrasse de/Every very great revision sheds all the most unnecessary and most superfluous creative material.
+showy/tape-à-l'œil, ostentatoire, clinquant/Any very showy and very artificially elaborate prose style was always considered a serious creative weakness.
+unions/syndicats, unions, associations/Several very important writers' unions campaigned very actively for all the most fundamental creative freedoms.
+gunpowder/poudre à canon/The most extraordinary new literary ideas arrived with all the force and surprise of gunpowder.
+thrive/prospérer, s'épanouir, s'enrichir/Every very genuine and very extraordinary creative talent must be given the freedom to thrive.
+bays/baies, lauriers, abois/He had won many very distinguished creative bays during his long and most remarkable career.
+persuading/persuadant, convainquant/The most difficult part was persuading the very oldest and most established critics to reconsider.
+bard/barde, poète/The old bard recited the most extraordinarily beautiful verses from the most ancient literary tradition.
+brutality/brutalité, violence, cruauté/The very deliberate brutality of certain kinds of hostile criticism was entirely without any justification.
+pioneers/pionniers, défricheurs/The very greatest literary pioneers always paid a very heavy personal price for their extraordinary courage.
+caressed/caressa, a caressé/He very lovingly caressed the old cover of his most beloved and most precious old book.
+writhing/se tordant, se contorsionnant/The extraordinary narrative writhing of the most complex plot kept every reader completely captivated.
+hogs/cochons, accapare, monopolise/Nobody who truly loves literature hogs all the very best books without sharing them generously.
+ineffectual/inefficace, sans effet, impuissant/Any very ineffectual and very poorly constructed argument always immediately undermined its own purpose.
+sentinels/sentinelles, gardes/The most faithful literary sentinels stood guard over all the very greatest and most important traditions.
+moulded/façonné, modelé, a moulu/Every very great writer is very deeply moulded by all the most important books they read.
+stall/stand, échoppe, étable, bloquer/Creative progress can very easily stall without a very clear and very well-defined purpose.
+accomplishing/accomplissant, réalisant/He was very steadily accomplishing all the very most ambitious creative goals he had ever set.
+accusing/accusant, qui accuse/Before accusing any writer of dishonesty one must examine all the very most relevant evidence.
+dessert/dessert/She prepared a most wonderful and most deliciously elaborate old dessert for the very special occasion.
+themes/thèmes, sujets/The very greatest literary works always explore the most profound and the most universal human themes.
+swells/enfle, grossit, monte/Every very great piece of writing swells with the most extraordinary authentic human feeling.
+vindictive/vindicatif, rancunier, malveillant/Any very vindictive critical attack always revealed far more about the attacker than the attacked.
+hotly/avec ardeur, chaudement, vivement/The most important creative argument was very hotly and very passionately debated throughout the evening.
+cleverness/intelligence, habileté, astuce/True cleverness in writing always concealed itself behind the very greatest apparent simplicity.
+confiding/confiant, qui se confie, confidant/The most extraordinary and most moving letter was written in a very quietly confiding tone.
+target/cible, objectif, viser/Every very great writer must always aim at the very most important and most demanding creative target.
+mechanics/mécanique, mécanismes/He had mastered all the very finest mechanics of his extraordinary craft over many long years.
+scold/gronder, réprimander, critiquer/Nobody could very fairly scold any writer for attempting something genuinely new and very different.
+acquiescence/acquiescement, consentement, résignation/The very quiet acquiescence of the distinguished committee surprised absolutely everyone present.
+hangings/pendaisons, tentures, tapisseries/The very old hall was decorated with the most extraordinary and most beautiful old tapestry hangings.
+poignant/poignant, émouvant, touchant/The most poignant passage in the very long novel brought tears to every very devoted reader.
+indefinitely/indéfiniment, sans limite de temps/Every very great work of truly extraordinary literature speaks indefinitely to all future generations.
+cot/lit de camp, petit lit, berceau/The very old writer slept in a very simple old cot in his most spartan writing retreat.
+calves/veaux, mollets/Several very fine calves grazed peacefully in the very green and very beautiful old meadow.
+sighted/avistado, aperçu, localisé/He very suddenly sighted the most extraordinary and most completely unexpected old manuscript.
+surpass/surpasser, dépasser, exceller/Only the very very greatest creative ambition can genuinely surpass all previous remarkable achievement.
+earthen/de terre, en terre cuite/The very beautiful old earthen pot stood on the windowsill of the very simple writing room.
+candy/bonbon, sucre/The very greatest literary compliments were sometimes little more than very tempting but very empty candy.
+witchcraft/sorcellerie, magie noire/Some described her extraordinary literary power as nothing less than a very brilliant kind of witchcraft.
+deceitful/trompeur, mensonger, perfide/Every very deceitful piece of writing ultimately betrayed only itself and its very own author.
+friendliness/amabilité, bienveillance, convivialité/The extraordinary friendliness of the very old literary community made every visitor feel immediately welcome.
+cant/jargon, hypocrisie, parler avec affectation/All forms of literary cant were immediately and very firmly rejected by the most honest critics.
+continuously/continuellement, sans interruption/The most extraordinary creative energy flowed continuously throughout the entire very remarkable career.
+disobedience/désobéissance, insoumission/Creative disobedience to all very narrow convention was always considered a very great and necessary virtue.
+enormously/énormément, immensément/The very extraordinary response to the new work was enormously and very completely gratifying.
+millionaire/millionnaire/No amount of millionaire success could compensate for the loss of any genuine creative integrity.
+prophesied/prophétisa, a prédit/He very clearly prophesied the most extraordinary literary revolution that would transform his entire generation.
+chronic/chronique, persistant, invétéré/The chronic undervaluation of the very greatest and most important creative work was deeply troubling.
+symptom/symptôme, signe/Every very poor creative choice was always a very clear symptom of some much deeper problem.
+winked/fit un clin d'œil, a clignoté/He very knowingly winked when asked about the very deep meaning of the most extraordinary passage.
+strangled/étrangla, a étranglé, étouffé/Every very rigid creative convention had very effectively strangled a great deal of genuine literary talent.
+submitting/soumettant, présentant, se soumettre/He spent the whole morning very carefully submitting the most important manuscript to the finest publisher.
+myriads/myriades, multitudes, foules/Myriads of extraordinary creative possibilities presented themselves at the very beginning of each new project.
+sauntered/se promena, a flâné/He very contentedly sauntered through the beautiful old streets thinking about the most difficult passage.
+steeped/imprégné, trempé, plongé/Every very great writer is deeply steeped in all the very most important literary traditions.
+weave/tisser, tresser, entrelacer/The very greatest narrative art is the ability to weave the most complex threads perfectly.
+slack/mou, relâché, paresseux, creux/Every very responsible writer must never allow any slack period to waste all precious creative time.
+presiding/présidant, qui préside/The most distinguished old professor was presiding over the very important literary ceremony with great dignity.
+residents/résidents, habitants/The very long-standing residents of the old literary quarter had witnessed many extraordinary creative periods.
+vogue/mode, vogue, popularité/Every very fashionable literary vogue eventually faded leaving only the very most enduring work behind.
+checking/vérifiant, contrôlant, freinant/He was very meticulously checking every single important detail of the very long and complex manuscript.
+cycle/cycle, vélo, cycliste/Every very great literary tradition goes through its own very extraordinary and very remarkable creative cycle.
+excel/exceller, se distinguer, surpasser/Only those who truly love their craft can ever genuinely excel in any creative endeavour.
+rigorous/rigoureux, strict, exact/The most rigorous and the most completely thorough creative standards were always non-negotiable.
+recalls/rappelle, se souvient, convoque/Every very great piece of writing recalls some very deep and very fundamental human truth.
+committees/comités, commissions/Several very important committees were established to address the most fundamental literary policy questions.
+aiming/visant, ciblant, ayant pour objectif/He was always very carefully aiming at the very highest possible creative standard in everything.
+flexible/flexible, souple, adaptable/The very greatest creative minds were always extraordinarily flexible in their remarkable approaches.
+heath/lande, bruyère/The very old story opened on a vast and very beautifully desolate old windswept heath.
+northeast/nord-est, du nord-est/The very remarkable old literary tradition of the northeast had produced several extraordinary creative voices.
+dogged/obstiné, tenace, acharné/Only the most dogged and most completely determined creative persistence produced truly extraordinary results.
+fervently/ardemment, avec ferveur/He fervently and very completely believed in the absolute necessity of all creative honesty.
+outcry/tollé, clameur, cri de protestation/The very sudden outcry against the most extraordinary new work was both predictable and completely unfounded.
+printer/imprimeur, imprimante/The very old printer had produced the most beautifully and the most carefully crafted editions.
+boarding/embarquement, pension, internat/He enjoyed the very simple boarding house life that allowed him to write without distraction.
+courted/courtisa, a cherché à obtenir, a recherché/Every very fashionable critical opinion was courted with much less success than genuine quality deserved.
+prominence/importance, notoriété, saillie/He rose to very great literary prominence through sheer creative honesty and extraordinary hard work.
+cycle/cycle, vélo, période/The very long creative cycle eventually produced the most extraordinary and most beautiful literary flowering.
+excel/exceller, dépasser/To truly excel in any creative endeavour requires the most absolute dedication and complete honesty.
+northeast/nord-est/The very extraordinary creative tradition of the northeast produced some of the most remarkable literary voices.
+rigorous/rigoureux, minutieux/Only the most rigorous application of the very highest creative standards could produce truly great work.
+recalls/rappelle, évoque/Every very great sentence recalls the very deepest and the most fundamental human truths.
+aiming/visant, se fixant comme objectif/He was very carefully aiming for the very most extraordinary and most demanding creative perfection.
+flexible/flexible, adaptable/The very greatest creative intellects were always wonderfully flexible in their approach to any problem.
+fatigues/fatigues, épuisements, corvées/Long hours of creative fatigues were always followed by the most extraordinary and rewarding results.
+invading/envahissant, qui envahit/New and very exciting ideas kept invading his mind throughout the most difficult creative period.
+prophecies/prophéties, prédictions/The most extraordinary literary prophecies of the previous generation had proven remarkably and completely accurate.
+magnified/magnifié, amplifié, grossi/Every very small creative achievement was enormously magnified by the most generous and devoted readers.
+anointed/oint, consacré, élu/The most truly anointed writers were always those who had earned their very great distinction.
+carving/sculpture, découpage, gravure/The very careful carving of each perfect sentence required extraordinary patience and very great skill.
+convulsions/convulsions, bouleversements/The most extraordinary creative convulsions of that very remarkable period produced truly lasting work.
+ballot/scrutin, vote, bulletin de vote/Every very important literary prize decision was made by the most rigorous and most careful ballot.
+timbers/bois de construction, charpentes/The very old timbers of the ancient library creaked very beautifully in the cold winter wind.
+discourses/discours, traités, dissertations/The most important philosophical discourses of that remarkable era shaped all subsequent very serious thought.
+lute/luth/The very beautiful sound of the old lute drifted through the warm evening air.
+agonies/agonies, tourments, souffrances/Every very great creative breakthrough was preceded by the most extraordinary and most productive agonies.
+untimely/prématuré, inopportun, intempestif/The very untimely death of the most extraordinary writer was mourned throughout the entire literary world.
+candour/franchise, sincérité, candeur/Complete creative candour was always considered the very greatest and most important literary virtue.
+burghers/bourgeois, citoyens/The very prosperous old burghers of the ancient city were devoted patrons of the literary arts.
+loading/chargement, chargeant/He spent the whole morning loading the very most important books into the old wooden crates.
+debates/débats, discussions, controverses/The most extraordinary literary debates of that period produced genuinely important and very lasting insights.
+penetration/pénétration, perspicacité, acuité/The remarkable penetration of his critical intelligence illuminated every very difficult and complex subject.
+emerald/émeraude, vert émeraude/The most beautiful emerald green of the very old garden was a constant source of creative inspiration.
+milder/plus doux, plus clément, plus modéré/A very much milder and more generous critical approach would always produce better results.
+dedication/dédicace, dévouement, consécration/Complete dedication to the very highest creative standards was always the most important quality.
+discredit/discrédit, discréditer/Any very deliberate dishonesty would always ultimately discredit even the most apparently distinguished literary voice.
+interviews/entretiens, interviews/He gave very few interviews and preferred to let the extraordinary quality of his work speak.
+invariable/invariable, constant, immuable/His invariable commitment to absolute creative honesty was the very foundation of all his work.
+slander/calomnie, diffamation, calomnier/Any very deliberate literary slander always damaged the reputation of the attacker far more than the attacked.
+strictest/le plus strict, le plus rigoureux/Only the very strictest creative standards could produce work of any truly lasting value.
+unreal/irréel, imaginaire, fantastique/The most extraordinary creative vision made even the most apparently unreal situations feel completely vivid.
+brigades/brigades, groupes/Several very dedicated brigades of young readers gathered to discuss the most important new literary work.
+derision/dérision, moquerie, raillerie/Any very fashionable critical derision always revealed more about its source than its very poor target.
+disorderly/désordonné, turbulent, indiscipliné/The most extraordinarily disorderly creative mind could produce the most beautifully ordered and perfect prose.
+weakly/faiblement, mollement, sans conviction/Any very weakly constructed argument always immediately collapsed under the very lightest critical scrutiny.
+atone/expier, réparer, racheter/Every very serious writer must sometimes atone for all their most significant creative misjudgments.
+fervour/ferveur, ardeur, enthousiasme/The most extraordinary creative fervour of that remarkable period produced some very truly lasting work.
+venue/lieu, salle, endroit/The most distinguished old venue had hosted every very important literary gathering for over a century.
+compassionate/compatissant, plein de compassion/Any truly compassionate understanding of human experience was always the very foundation of great writing.
+retort/réplique, repartie, répliquer/His very sharp and very brilliantly timed retort silenced the most hostile critic immediately.
+fulfilling/accomplissant, réalisant, épanouissant/Every very truly fulfilling creative project demanded the very most complete and most absolute dedication.
+lurid/sensationnel, lugubre, criard/Any very lurid and very deliberately sensational literary approach always sacrificed truth for very cheap effect.
+embers/braises, cendres rougeoyantes/The very last glowing embers of the fire illuminated the most extraordinary old page of the manuscript.
+handkerchiefs/mouchoirs/Several very old and very beautiful embroidered handkerchiefs were found among the most precious old papers.
+shrouded/enveloppé, voilé, entouré de mystère/The entire extraordinary affair remained very deeply shrouded in the most complete and total mystery.
+hallowed/consacré, vénéré, sacré/Every very hallowed literary tradition deserved the very most thoughtful and most careful creative attention.
+spiral/spirale, en spirale, tourner en spirale/The most extraordinary creative spiral of ideas led him to the most completely unexpected conclusion.
+capacities/capacités, aptitudes, facultés/He had always worked very hard to develop all his very most extraordinary creative capacities.
+coaches/entraîneurs, coaches, diligences/Several very distinguished literary coaches helped develop the most extraordinary creative talents of the era.
+uphold/soutenir, défendre, maintenir/Every very serious writer had a fundamental duty to uphold the very highest creative standards.
+choke/étouffer, étrangler, obstruer/No very fashionable literary fashion should ever be allowed to choke any genuine creative voice.
+fraught/chargé, plein de, tendu/Every very important creative decision was always fraught with the most extraordinary and most real difficulty.
+spoilt/gâté, abîmé, détérioré/Not a single very important creative detail had been spoilt in the most carefully considered revision.
+herb/herbe, plante aromatique/Every very beautiful herb in the old garden contributed its extraordinary fragrance to the creative atmosphere.
+saves/sauve, économise, préserve/Every very careful and very thorough revision always saves the most important work from serious mistakes.
+cloister/cloître, se cloîtrer/He loved the very extraordinary creative peace of the ancient and beautiful old stone cloister.
+healthful/salutaire, sain, bénéfique/Every very long creative walk in the fresh air was the most wonderfully healthful creative discipline.
+mire/bourbier, vase, enliser/He had to very carefully drag himself out of the very deep creative mire of his first draft.
+paralyzed/paralysé, a paralysé/Any very excessive and very unjustified self-criticism always paralyzed the most genuine creative impulse.
+slaying/tuant, abattant/He was brilliantly slaying every very weak and every very superfluous word in the difficult draft.
+survival/survie, survivance/The very survival of all the most important literary traditions required extraordinary and constant dedication.
+sparing/ménageant, économe, sobre/He was always very sparing in his very careful use of any merely decorative literary language.
+forks/fourches, fourchettes, bifurcations/Every very important creative path eventually reached the most interesting and most challenging forks.
+neglecting/négligeant, en négligeant/He could never forgive himself for very nearly neglecting the most important aspect of the work.
+cricket/cricket, grillon/The very beautiful sound of the old cricket filled the warm and very quiet summer evening.
+trusts/fait confiance, trusts, se fie à/Every truly great writer always trusts his very deepest and most fundamental creative instincts.
+transmission/transmission, diffusion/The very faithful transmission of all the very greatest literary traditions was a very sacred duty.
+insurgents/insurgés, rebelles/He very brilliantly described all the most extraordinary literary insurgents of his most remarkable era.
+prairies/prairies, plaines/The very old story opened on the vast and most extraordinarily beautiful and empty old prairies.
+rumors/rumeurs, bruits/He never paid any very serious attention to all the very many completely unfounded literary rumors.
+imitating/imitant, copiant/Any very deliberate imitating of another writer's style was always considered the very lowest form of work.
+livelihood/moyens de subsistance, gagne-pain/Writing had always been his very greatest passion as well as his very only livelihood.
+teams/équipes, attelages/Several very dedicated creative teams worked together on the most ambitious and most complex literary projects.
+ripple/ondulation, ride, onduler/Every very genuine creative insight sent the most extraordinary ripple through all the very finest literary circles.
+balm/baume, réconfort, soulagement/The very finest and most truthful writing always provided the most extraordinary and most gentle creative balm.
+arithmetic/arithmétique, calcul/He had no patience for the very dry arithmetic of commercial publishing and preferred creative freedom.
+rascals/coquins, fripons, voyous/He described all the most charming and most brilliantly roguish literary rascals of the old era.
+saddled/saddlé, chargé de, affublé de/He found himself very unexpectedly saddled with the most important and most demanding literary responsibility.
+emigration/émigration, exil/The very extraordinary emigration of the most gifted and most creative writers transformed the literary landscape.
+glen/vallon, ravin, clairière/The very beautiful old glen was always his most favourite and most productive creative retreat.
+distasteful/déplaisant, peu agréable, répugnant/Any very deliberately distasteful literary production was immediately and very firmly rejected.
+licence/licence, liberté, permission/Creative licence was always considered a very great privilege that demanded the very highest responsibility.
+chastity/chasteté, pureté/He believed in the most complete creative chastity: absolute fidelity to truth in every single word.
+cramped/à l'étroit, exigu, crispé/He had written his very first extraordinary novel in the most tiny and most cramped old room.
+wrinkles/rides, plis, difficultés/Every very difficult creative wrinkle in the argument had to be very carefully and completely ironed out.
+uninterrupted/ininterrompu, continu, sans interruption/Several very long hours of completely uninterrupted creative work produced the most extraordinary results.
+pigeon/pigeon, duper/He would never pigeon himself into any very narrow and very limiting single literary category.
+scolding/réprimandant, grondeant, réprimande/Any very harsh scolding of a genuinely sincere creative attempt was always considered very counterproductive.
+voters/électeurs, votants/All the very distinguished voters for the most important literary prize took their extraordinary responsibility very seriously.
+insensibly/insensiblement, imperceptiblement/He had insensibly and very gradually absorbed all the very greatest literary traditions of his culture.
+chop/couper, hacher, modifier/He had to very ruthlessly chop all the very weakest and most unnecessary passages from the draft.
+privations/privations, manques/He had endured many very great creative privations before finally achieving the recognition he deserved.
+bide/attendre, demeurer, rester/He learned very early to bide his creative time and wait for exactly the very right moment.
+misgivings/doutes, appréhensions, réserves/He had very serious misgivings about the proposed very radical changes to the most important text.
+treading/marchant, piétinant, foulant/He was very carefully treading the most difficult and most extraordinary creative path he had ever taken.
+ascertaining/établissant, vérifiant, s'assurant/He spent several very long weeks carefully ascertaining all the most important and relevant facts.
+journalist/journaliste/The very distinguished old journalist had covered every important literary event for over thirty years.
+panel/panneau, groupe, jury/Every very distinguished panel member took their extraordinary responsibility to all serious literature very seriously.
+scratching/grattant, griffonnant, rayant/He was busily scratching out all the very most superfluous words from the very long draft.
+conceited/vaniteux, suffisant, prétentieux/No truly great writer was ever conceited about his very considerable and most extraordinary achievements.
+manoeuvre/manœuvre, manœuvrer/Every very important critical manoeuvre was executed with the most extraordinary skill and precision.
+growl/grognement, grogner/He let out a very quiet but very expressive growl of creative frustration before pressing on.
+kingly/royal, majestueux, noble/Every very kingly and most magnificent literary tradition deserved the utmost respect and careful preservation.
+inanimate/inanimé, sans vie/No very inanimate or very lifeless prose could ever truly capture any deep human truth.
+stab/coup de poignard, poignarder, tenter/He made a very courageous creative stab at the most difficult and most demanding subject.
+educate/éduquer, instruire, former/Every very great writer had a very profound responsibility to educate and to inspire all readers.
+theoretical/théorique, spéculatif/Any very purely theoretical approach to literature always risked losing touch with real human experience.
+equity/équité, justice, impartialité/Complete creative equity demanded that every very genuine literary talent receive its proper recognition.
+incensed/indigné, furieux, offensé/He was very completely incensed by the most deliberately unfair and most unjustified critical attack.
+revolting/révoltant, dégoûtant, se révoltant/Any very revolting and very deliberate dishonesty in any literary work was immediately apparent.
+deportment/maintien, allure, conduite/His very distinguished deportment and very natural grace made a very strong impression everywhere.
+helplessness/impuissance, désarroi/He described the very particular creative helplessness of the most devastating and most prolonged writer's block.
+lyre/lyre/The very ancient lyre was always considered the very most powerful symbol of all true poetic inspiration.
+camera/caméra, appareil photo/Every very significant literary event was carefully recorded by the most distinguished old camera crew.
+hypocrite/hypocrite, faux-semblant/Every very obvious literary hypocrite was very quickly and very completely exposed by careful readers.
+organised/organisé, a organisé/He very carefully organised all the most extraordinary and most important creative material before beginning.
+dismissal/renvoi, rejet, congédiement/Every very summary dismissal of any genuinely serious creative work was always deeply regrettable.
+primeval/primitif, primordial, originel/The most extraordinary primeval creative energy informed every single page of his most celebrated work.
+lamentations/lamentations, plaintes, jérémiades/His very moving lamentations over all the very great lost literary traditions touched every reader deeply.
+fray/bagarre, mêlée, s'effilocher/He always entered the very fiercest literary fray with complete composure and extraordinary intellectual confidence.
+abated/diminua, s'est calmé, a atténué/The very fierce critical storm gradually abated leaving only the most important work standing.
+farmhouse/ferme, maison de ferme/He wrote his very finest and most celebrated novel in the most simple and peaceful old farmhouse.
+sanctified/sanctifié, consacré, béni/Every very great creative act was always sanctified by the very deepest commitment to complete truth.
+supple/souple, flexible, agile/The very supple and very beautifully flexible prose style adapted perfectly to every creative demand.
+graver/graveur, plus grave, plus sérieux/Every very graver and more serious aspect of the human condition was explored with great depth.
+corredness/correction, exactitude/Absolute correctness in all creative matters was always considered the very minimum acceptable standard.
+dispensed/distribua, a dispensé, s'est passé de/He very wisely dispensed with all the very most unnecessary and most distracting literary ornamentation.
+tenderest/le plus tendre, le plus délicat/The very tenderest and the most beautifully moving passages were always the very most carefully crafted.
+cloaks/capes, manteaux, dissimule/Every very elaborate literary theory always merely cloaks the most fundamental and most simple truths.
+cordiality/cordialité, chaleur, amabilité/The most extraordinary cordiality between all the very distinguished old literary rivals surprised everyone.
+fables/fables, contes/The most ancient and most beautifully crafted fables always concealed the very deepest human truths.
+magnanimity/magnanimité, générosité/True creative magnanimity was always shown in the very generous treatment of all very young writers.
+tresses/tresses, nattes, chevelure/The very beautiful old portrait showed the writer with the most extraordinarily long and flowing tresses.
+wastes/gaspille, déserts, dépérit/Nobody truly dedicated to great literature ever wastes any very precious and very creative moment.
+celebrity/célébrité, renommée/True literary celebrity was always the least important and the very most transient of all creative rewards.
+ingenuous/ingénu, naïf, sincère/The most extraordinarily ingenuous and most completely honest approach to writing always produced the finest results.
+laurels/lauriers, gloire/He rested very briefly on his very well-earned laurels before immediately beginning the next extraordinary project.
+unhappiness/malheur, tristesse, mécontentement/He wrote with very great beauty and extraordinary truth about all the very deepest human unhappiness.
+unutterable/indicible, inexprimable/The most extraordinary creative achievement brought with it an almost completely unutterable sense of satisfaction.
+bayonet/baïonnette/The very old story described a very brave soldier charging forward with his bayonet gleaming.
+foolishness/sottise, bêtise, folie/Every very obvious foolishness in any literary argument was immediately apparent to the most careful reader.
+broth/bouillon, potage/The very old cook made the most wonderfully nourishing old broth that warmed the entire cold house.
+cracks/fissures, craquelures, craque/Every very careful revision seals all the most significant creative cracks in the argument.
+spectre/spectre, fantôme, ombre/The very disturbing spectre of creative dishonesty haunted all the most important literary debates.
+blasted/maudit, détruit, flétri/Every very careless and very destructive critical attack blasted the most fragile creative confidence.
+forgetful/oublieux, distrait/He was always very forgetful about everything except the very most important creative details.
+unfold/se déployer, révéler, développer/The most extraordinary creative narrative slowly began to unfold in the most beautiful and unexpected way.
+grease/graisse, graisser/He would rather grease the wheels of genuine creative progress than pursue any very empty acclaim.
+marvels/merveilles, s'émerveille/Every truly devoted reader always marvels at the very greatest and most extraordinary creative achievements.
+broom/balai, genêt/He swept away all the most unnecessary and most distracting creative debris with a very firm broom.
+infirmity/infirmité, faiblesse/Every very genuine creative infirmity could always be overcome through the most extraordinary and complete dedication.
+reproof/reproche, blâme, réprimande/He accepted every very fair and very clearly argued reproof with genuine and complete grace.
+unchanged/inchangé, intact/The very most important and most fundamental creative principles remained completely unchanged throughout his entire career.
+inflexible/inflexible, rigide, intransigeant/He was wonderfully inflexible when it came to maintaining all the very highest creative standards.
+tug/tirer, remorquer, remorqueur/He felt a very sudden and very powerful creative tug towards the most extraordinary and most unexpected subject.
+advocated/préconisa, a défendu, prôné/He had very passionately advocated for the very greatest creative freedom throughout his entire remarkable career.
+vagabond/vagabond, errant, nomade/He described his very extraordinary creative life as that of the most productive and most devoted vagabond.
+raced/fila, a couru, a fondu/His very extraordinary mind raced with the most brilliant and most completely unexpected new creative ideas.
+reiterated/réitéré, a répété/He very carefully reiterated all the most important creative principles in the most extraordinary and most influential essay.
+sacks/sacs, sacs de couchage/He packed all the most important creative materials into several very large and very sturdy old sacks.
+scholarship/bourse d'études, bourse/He received a very prestigious scholarship that allowed him to pursue his most extraordinary creative ambitions.
+tripped/a trébuché/He very nearly tripped over the most important and most unexpected creative breakthrough of his entire career.
+signifying/signifiant, signifier/Every very important creative symbol was carefully signifying some very deep and very fundamental human truth.
+stealthy/furtif, discret/He made a very stealthy and very unexpected creative move that completely surprised everyone.
+surpassing/surpassant, dépassant/Only the most surpassing and most extraordinary creative ambition could genuinely exceed all previous remarkable achievement.
+convoy/convoyage, convoi/He was very carefully convoying all the most important creative materials to the most secure and most private location.
+paramount/primordial/Every very great writer must always aim at the very most important and most paramount creative target.
+judgement/jugement/Every very great piece of writing was always the result of the most extraordinary and most careful creative judgement.
+respectability/respectabilité/He was always very careful to maintain the very highest standards of creative respectability in all his work.
+noblemen/nobles, aristocrates/Several very distinguished old noblemen were devoted patrons of the most extraordinary literary traditions.
+precepts/principes, préceptes/Every very important creative precept was carefully followed by the most extraordinary and most successful writers.
+puffing/soufflant/He was very carefully puffing up the most important and most extraordinary creative ideas to their fullest possible extent.
+clap/applaudir/Every very extraordinary creative achievement was greeted with the most enthusiastic and most heartfelt clapping.
+noiseless/silencieux/He made a very noiseless and very unexpected creative move that completely surprised everyone.
+sustaining/maintenant/Every very great writer had a very profound responsibility to sustain and to inspire all readers.
+surging/croissant, montant en flèche/The most extraordinary creative energy was surging through the entire literary community at that very remarkable time.
+counsellors/conseillers/Several very distinguished old counsellors provided the most extraordinary creative advice to the most promising young writers.
+undulating/ondulant/The most extraordinary creative energy flowed in an undulating and very unpredictable way throughout the entire career.
+absorb/absorber/Trains have buffers between wagons to absorb shocks.
+aggravated/aggravé/His condition was aggravated by the lack of proper medical care.
+savagely/sauvagement/He was savagely attacked by critics for his very unconventional creative approach.
+youngster/jeune, gamin/Every very promising youngster was carefully nurtured by the most extraordinary and most generous literary mentors.
+sculptured/sculpté/Every very carefully sculptured sentence was a work of art in its own right and a source of great creative pleasure.
+counterfeit/contrefaçon/Any very deliberate counterfeit of another writer's style was always considered the very lowest form of work.
+surly/revêche/He was very surly and very uncooperative when asked about the most important creative details of his work.
+troopers/troupes, soldats/Several very dedicated creative troopers worked together on the most ambitious and most complex literary projects.
+abounds/abonde/Every very rich and very fertile literary culture abounds with the most extraordinary creative possibilities.
+allowable/acceptable/Only the most strictly allowable creative liberties were ever taken in the most extraordinary and most carefully crafted work.
+developments/développements/Every very important creative development was carefully documented by the most distinguished old literary historians.
+astounded/étonné/He was astounded by the most extraordinary creative breakthrough that came to him in a very sudden and very unexpected way.
+advising/conseillant/Several very distinguished old advisers provided the most extraordinary creative advice to the most promising young writers.
+fixedly/fixement/He stared very fixedly at the most difficult and most extraordinary creative problem until it was completely solved.
+employments/emploi/He had many very different creative employments throughout his entire remarkable career.
+formality/formalité/Every very important creative decision was always made with the most extraordinary and most careful formality.
+swarthy/basané/He had a very swarthy and very mysterious appearance that added to his creative mystique.
+condescend/condescendant/He was very condescending and very dismissive when asked about the most important creative details of his work.
+adversity/adversité/Every very great writer had to endure the most extraordinary creative adversity before finally achieving recognition.
+enhanced/amélioré/Every very careful and very thorough revision always enhanced the most important work in the most extraordinary way.
+wakes/sillages/Every very important creative breakthrough sent the most extraordinary wakes through the entire literary community.
+credulity/crédulité/Any very deliberate appeal to the most naive and the most excessive credulity was always considered the very lowest form of work.
+invoked/invoqué/He invoked the most extraordinary creative traditions of the past to inspire his most remarkable new work.
+tightened/serré/He tightened his grip on the most important and most extraordinary creative ideas until they were fully developed.
+breakers/disjoncteurs/Final panelboards contain miniature circuit breakers and earth leakage switches.
+whereabouts/localisation/His whereabouts were very carefully kept secret during the most important and most extraordinary creative period.
+orphans/orphelins/He was very devoted to the most unfortunate literary orphans who had been abandoned by the most fashionable critical establishment.
+apologize/s'excuser/He was very quick to apologize for any very significant creative misjudgment that he had made in the most extraordinary way.
+overpowering/accablant/Every very great creative achievement was always accompanied by an overpowering sense of satisfaction and joy.
+rudeness/grossièreté/Any very deliberate rudeness in any literary work was immediately apparent to the most careful reader and very quickly rejected.
+lounging/traînant, se prélassant/He was very often found lounging in the most beautiful and most peaceful old garden that inspired his creativity.
