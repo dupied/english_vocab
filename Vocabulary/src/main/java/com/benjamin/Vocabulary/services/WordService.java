@@ -1,32 +1,46 @@
 package com.benjamin.Vocabulary.services;
 
-import java.util.List;
-
+import com.benjamin.Vocabulary.entity.UserWord;
+import com.benjamin.Vocabulary.entity.Word;
+import com.benjamin.Vocabulary.repository.UserWordsRepository;
+import com.benjamin.Vocabulary.repository.WordRepository;
+import jakarta.persistence.EntityNotFoundException;
+import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import com.benjamin.Vocabulary.entity.Word;
-import com.benjamin.Vocabulary.repository.WordRepository;
-
-import lombok.AllArgsConstructor;
+import java.util.List;
+import java.util.UUID;
 
 @Service
 @AllArgsConstructor
 public class WordService {
-    
-    private WordRepository wordRepository;
 
-    public Word getRandomWord() {
-        return wordRepository.findRandomWord();
+    private final WordRepository wordRepository;
+    private final UserWordsRepository userWordsRepository;
+
+    public Word getRandomWord(UUID userId) {
+        return wordRepository.findRandomWordForUser(userId);
     }
 
-    public Word updateNote(Long id, Integer newNote) {
-        return null;
-        // return wordRepository.findById(id)
-        //         .map(word -> {
-        //             word.setNote(newNote);
-        //             return wordRepository.save(word);
-        //         })
-        //         .orElse(null);
+    public Word updateNote(UUID userId, Long wordId, Integer newNote) {
+        if (newNote == null || newNote < 1 || newNote > 3) {
+            throw new IllegalArgumentException("Score must be between 1 and 3");
+        }
+
+        Word word = wordRepository.findById(wordId)
+                .orElseThrow(() -> new EntityNotFoundException("Word not found with id: " + wordId));
+
+        UserWord userWord = userWordsRepository.findByUserIdAndWordId(userId, wordId)
+                .orElseGet(() -> {
+                    UserWord newUserWord = new UserWord();
+                    newUserWord.setUserId(userId);
+                    newUserWord.setWord(word);
+                    return newUserWord;
+                });
+
+        userWord.setScore(newNote);
+        userWordsRepository.save(userWord);
+        return word;
     }
 
     public Word updateWord(Long id, Word wordDetails) {
@@ -44,8 +58,10 @@ public class WordService {
         return wordRepository.findPaginatedWords(limit, cursor);
     }
 
-    public List<Word> getPaginatedWordsByNote(Integer note, int limit, long cursor) {
-        return wordRepository.findPaginatedWordsByNote(note, limit, cursor);
+    public List<Word> getPaginatedWordsByNote(UUID userId, Integer note, int limit, long cursor) {
+        if (note == null || note < 1 || note > 3) {
+            return getPaginatedWords(limit, cursor);
+        }
+        return wordRepository.findPaginatedWordsByNoteForUser(userId, note, limit, cursor);
     }
-    
 }
