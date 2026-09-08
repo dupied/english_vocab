@@ -2,6 +2,8 @@ package com.benjamin.Vocabulary.controller;
 
 import com.benjamin.Vocabulary.entity.Word;
 import com.benjamin.Vocabulary.services.WordService;
+import com.benjamin.Vocabulary.utils.Utils;
+
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
@@ -20,14 +22,14 @@ public class WordController {
 
     @GetMapping("/random")
     public ResponseEntity<Word> getRandomWord(@AuthenticationPrincipal Jwt jwt) {
-        return ResponseEntity.ok(wordService.getRandomWord(userIdFrom(jwt)));
+        return ResponseEntity.ok(wordService.getRandomWord(Utils.userIdFrom(jwt)));
     }
 
     @PutMapping("/{id}/note")
     public ResponseEntity<Word> updateNote(@PathVariable Long id,
                                           @AuthenticationPrincipal Jwt jwt,
                                           @RequestBody Integer newNote) {
-        return ResponseEntity.ok(wordService.updateNote(userIdFrom(jwt), id, newNote));
+        return ResponseEntity.ok(wordService.updateNote(Utils.userIdFrom(jwt), id, newNote));
     }
 
     @PutMapping("/{id}")
@@ -35,7 +37,5 @@ public class WordController {
         return ResponseEntity.ok(wordService.updateWord(id, wordDetails));
     }
 
-    private UUID userIdFrom(Jwt jwt) {
-        return UUID.fromString(jwt.getSubject());
-    }
+    
 }

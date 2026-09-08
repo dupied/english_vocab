@@ -1,5 +1,6 @@
 package com.benjamin.Vocabulary.services;
 
+import com.benjamin.Vocabulary.dto.WordDTO;
 import com.benjamin.Vocabulary.entity.UserWord;
 import com.benjamin.Vocabulary.entity.Word;
 import com.benjamin.Vocabulary.repository.UserWordsRepository;
@@ -9,7 +10,9 @@ import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
+import java.util.stream.Collectors;
 
 @Service
 @AllArgsConstructor
@@ -54,14 +57,34 @@ public class WordService {
                 .orElse(null);
     }
 
-    public List<Word> getPaginatedWords(int limit, long cursor) {
-        return wordRepository.findPaginatedWords(limit, cursor);
+    public List<WordDTO> getPaginatedWords(UUID userId, int limit, long cursor) {
+        return enrichWithNotes(userId, wordRepository.findPaginatedWords(limit, cursor));
     }
 
-    public List<Word> getPaginatedWordsByNote(UUID userId, Integer note, int limit, long cursor) {
+    public List<WordDTO> getPaginatedWordsByNote(UUID userId, Integer note, int limit, long cursor) {
         if (note == null || note < 1 || note > 3) {
-            return getPaginatedWords(limit, cursor);
+            return getPaginatedWords(userId, limit, cursor);
         }
-        return wordRepository.findPaginatedWordsByNoteForUser(userId, note, limit, cursor);
+        return enrichWithNotes(userId, wordRepository.findPaginatedWordsByNoteForUser(userId, note, limit, cursor));
+    }
+
+    private List<WordDTO> enrichWithNotes(UUID userId, List<Word> words) {
+        if (words.isEmpty()) {
+            return List.of();
+        }
+
+        List<Long> wordIds = words.stream()
+                .map(Word::getId)
+                .toList();
+        Map<Long, Integer> notesByWordId = userWordsRepository.findByUserIdAndWordIdIn(userId, wordIds)
+                .stream()
+                .collect(Collectors.toMap(
+                        userWord -> userWord.getWord().getId(),
+                        UserWord::getScore
+                ));
+
+        return words.stream()
+                .map(word -> new WordDTO(word, notesByWordId.get(word.getId())))
+                .toList();
     }
 }
